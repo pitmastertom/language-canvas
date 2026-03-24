@@ -510,9 +510,9 @@
   }
 
   .studio-grid {
-    margin-top: 24px;
+    margin-top: 12px;
     display: grid;
-    grid-template-columns: 320px minmax(0, 1fr);
+    grid-template-columns: 280px minmax(0, 1fr);
     gap: 20px;
   }
 
@@ -643,6 +643,9 @@
 
   .content-panel {
     min-height: 520px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border-radius: 28px;
     border: 1px solid rgba(31, 27, 24, 0.1);
     background:
@@ -652,7 +655,9 @@
   }
 
   .flashcard {
-    min-height: 320px;
+    min-height: 360px;
+    width: min(100%, 760px);
+    margin: 0 auto;
     border-radius: 30px;
     padding: 28px;
     background:
@@ -741,6 +746,7 @@
     display: flex;
     gap: 10px;
     flex-wrap: wrap;
+    justify-content: center;
   }
 
   .btn-pill {
@@ -931,6 +937,12 @@
     gap: 10px;
     flex-wrap: wrap;
     margin-top: 12px;
+  }
+
+  .speak-btn {
+    background: rgba(255,255,255,0.84);
+    color: var(--ink);
+    border: 1px solid rgba(31,27,24,0.1);
   }
 
   .footer {
@@ -1178,6 +1190,8 @@
           </div>
         </div>
 
+        <div class="mode-tabs" id="mode-tabs" style="margin-top: 22px; margin-bottom: 18px;"></div>
+
         <div class="studio-grid">
           <aside class="panel config-panel">
             <div>
@@ -1204,10 +1218,6 @@
               <div class="lang-list" id="lang-list"></div>
             </div>
 
-            <div>
-              <div class="label">Mode</div>
-              <div class="mode-tabs" id="mode-tabs"></div>
-            </div>
 
             <div class="micro-card">
               <div class="panel-title">Session progress</div>
@@ -1683,6 +1693,7 @@
   let phraseValue = "";
   let phraseResult = null;
   let matchRound = null;
+  let speechEnabled = typeof window !== "undefined" && "speechSynthesis" in window;
   let multiRound = null;
   let reorderRound = null;
   let chatScenario = "at a cafe";
@@ -1888,6 +1899,19 @@
     return "బాగుంది. అదే మాటను ఇంకాస్త సహజంగా కూడా చెప్పవచ్చు.\n(Good. You could say that a little more naturally too.)";
   }
 
+
+  function speakText(value) {
+    if (!speechEnabled || !value) {
+      statusText('Text-to-speech is not available in this browser.', 'bad');
+      return;
+    }
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(value);
+    utterance.lang = lang === 'te' ? 'te-IN' : 'es-ES';
+    utterance.rate = 0.92;
+    window.speechSynthesis.speak(utterance);
+  }
+
   function renderControls() {
     const langList = document.getElementById("lang-list");
     const modeTabs = document.getElementById("mode-tabs");
@@ -1972,6 +1996,7 @@
         <div class="cta-row">
           <button class="btn-pill" type="button" onclick="loadFlashCard()">New Card</button>
           <button class="btn-pill ghost" type="button" onclick="flipFlashCard()">Flip Card</button>
+          <button class="btn-pill ghost speak-btn" type="button" onclick="speakCurrentFlashcard()">Speak</button>
         </div>
       </div>
     `;
@@ -2034,6 +2059,11 @@
     flashFlipped = !flashFlipped;
     if (flashFlipped) showFlashBack();
     else showFlashFront();
+  }
+
+  function speakCurrentFlashcard() {
+    if (!flashCard) return;
+    speakText(flashFlipped ? flashCard.translation : flashCard.english);
   }
 
   function renderQuiz() {
@@ -2302,6 +2332,11 @@
     phraseValue = "";
     phraseResult = null;
     renderPhrase();
+  }
+
+  function speakPhraseResult() {
+    if (!phraseResult?.translation) return;
+    speakText(phraseResult.translation);
   }
 
   function renderPhraseResultMarkup() {
