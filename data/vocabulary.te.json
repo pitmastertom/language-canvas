@@ -1,0 +1,4472 @@
+[
+  {
+    "id": "te-greetings-1",
+    "topic": "Greetings",
+    "english": "Hello",
+    "translation": "నమస్కారం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Hello.",
+    "example_translation": "నమస్కారం",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-2",
+    "topic": "Greetings",
+    "english": "Good morning",
+    "translation": "శుభోదయం",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Good morning.",
+    "example_translation": "శుభోదయం",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-3",
+    "topic": "Greetings",
+    "english": "Good afternoon",
+    "translation": "శుభ మధ్యాహ్నం",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Good afternoon.",
+    "example_translation": "శుభ మధ్యాహ్నం",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-4",
+    "topic": "Greetings",
+    "english": "Good night",
+    "translation": "శుభ రాత్రి",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Good night.",
+    "example_translation": "శుభ రాత్రి",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-5",
+    "topic": "Greetings",
+    "english": "How are you?",
+    "translation": "మీరు ఎలా ఉన్నారు?",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: How are you?.",
+    "example_translation": "మీరు ఎలా ఉన్నారు?",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-6",
+    "topic": "Greetings",
+    "english": "Very well",
+    "translation": "చాలా బాగా",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Very well.",
+    "example_translation": "చాలా బాగా",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-7",
+    "topic": "Greetings",
+    "english": "Please",
+    "translation": "దయచేసి",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Please.",
+    "example_translation": "దయచేసి",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-8",
+    "topic": "Greetings",
+    "english": "Thank you",
+    "translation": "ధన్యవాదాలు",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Thank you.",
+    "example_translation": "ధన్యవాదాలు",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-9",
+    "topic": "Greetings",
+    "english": "You are welcome",
+    "translation": "స్వాగతం",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: You are welcome.",
+    "example_translation": "స్వాగతం",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-10",
+    "topic": "Greetings",
+    "english": "See you later",
+    "translation": "తర్వాత కలుద్దాం",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: See you later.",
+    "example_translation": "తర్వాత కలుద్దాం",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-11",
+    "topic": "Greetings",
+    "english": "See you tomorrow",
+    "translation": "రేపు కలుద్దాం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: See you tomorrow.",
+    "example_translation": "రేపు కలుద్దాం",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-12",
+    "topic": "Greetings",
+    "english": "Nice to meet you",
+    "translation": "మిమ్మల్ని కలవడం ఆనందంగా ఉంది",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Nice to meet you.",
+    "example_translation": "మిమ్మల్ని కలవడం ఆనందంగా ఉంది",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-13",
+    "topic": "Greetings",
+    "english": "Excuse me",
+    "translation": "క్షమించండి",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Excuse me.",
+    "example_translation": "క్షమించండి",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-14",
+    "topic": "Greetings",
+    "english": "Sorry",
+    "translation": "క్షమించండి",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Sorry.",
+    "example_translation": "క్షమించండి",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-15",
+    "topic": "Greetings",
+    "english": "Yes",
+    "translation": "అవును",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Yes.",
+    "example_translation": "అవును",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-16",
+    "topic": "Greetings",
+    "english": "No",
+    "translation": "లేదు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: No.",
+    "example_translation": "లేదు",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-17",
+    "topic": "Greetings",
+    "english": "Maybe",
+    "translation": "బహుశా",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Maybe.",
+    "example_translation": "బహుశా",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-18",
+    "topic": "Greetings",
+    "english": "Of course",
+    "translation": "ఖచ్చితంగా",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Of course.",
+    "example_translation": "ఖచ్చితంగా",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-19",
+    "topic": "Greetings",
+    "english": "What is your name?",
+    "translation": "మీ పేరు ఏమిటి?",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: What is your name?.",
+    "example_translation": "మీ పేరు ఏమిటి?",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-20",
+    "topic": "Greetings",
+    "english": "My name is...",
+    "translation": "నా పేరు ...",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: My name is....",
+    "example_translation": "నా పేరు ...",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-travel-1",
+    "topic": "Travel",
+    "english": "Station",
+    "translation": "స్టేషన్",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Station.",
+    "example_translation": "స్టేషన్",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-2",
+    "topic": "Travel",
+    "english": "Airport",
+    "translation": "విమానాశ్రయం",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Airport.",
+    "example_translation": "విమానాశ్రయం",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-3",
+    "topic": "Travel",
+    "english": "Bus",
+    "translation": "బస్సు",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Bus.",
+    "example_translation": "బస్సు",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-4",
+    "topic": "Travel",
+    "english": "Train",
+    "translation": "రైలు",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Train.",
+    "example_translation": "రైలు",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-5",
+    "topic": "Travel",
+    "english": "Ticket",
+    "translation": "టికెట్",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Ticket.",
+    "example_translation": "టికెట్",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-6",
+    "topic": "Travel",
+    "english": "Platform",
+    "translation": "ప్లాట్‌ఫాం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Platform.",
+    "example_translation": "ప్లాట్‌ఫాం",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-7",
+    "topic": "Travel",
+    "english": "Taxi",
+    "translation": "టాక్సీ",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Taxi.",
+    "example_translation": "టాక్సీ",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-8",
+    "topic": "Travel",
+    "english": "Luggage",
+    "translation": "సామాను",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Luggage.",
+    "example_translation": "సామాను",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-9",
+    "topic": "Travel",
+    "english": "Passport",
+    "translation": "పాస్‌పోర్ట్",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Passport.",
+    "example_translation": "పాస్‌పోర్ట్",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-10",
+    "topic": "Travel",
+    "english": "Map",
+    "translation": "మ్యాప్",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Map.",
+    "example_translation": "మ్యాప్",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-11",
+    "topic": "Travel",
+    "english": "Hotel",
+    "translation": "హోటల్",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Hotel.",
+    "example_translation": "హోటల్",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-12",
+    "topic": "Travel",
+    "english": "Room",
+    "translation": "గది",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Room.",
+    "example_translation": "గది",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-13",
+    "topic": "Travel",
+    "english": "Reservation",
+    "translation": "రిజర్వేషన్",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Reservation.",
+    "example_translation": "రిజర్వేషన్",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-14",
+    "topic": "Travel",
+    "english": "Left",
+    "translation": "ఎడమ",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Left.",
+    "example_translation": "ఎడమ",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-15",
+    "topic": "Travel",
+    "english": "Right",
+    "translation": "కుడి",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Right.",
+    "example_translation": "కుడి",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-16",
+    "topic": "Travel",
+    "english": "Straight ahead",
+    "translation": "నేరుగా",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Straight ahead.",
+    "example_translation": "నేరుగా",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-17",
+    "topic": "Travel",
+    "english": "Where is the station?",
+    "translation": "స్టేషన్ ఎక్కడ ఉంది?",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Where is the station?.",
+    "example_translation": "స్టేషన్ ఎక్కడ ఉంది?",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-18",
+    "topic": "Travel",
+    "english": "I need a ticket",
+    "translation": "నాకు ఒక టికెట్ కావాలి",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: I need a ticket.",
+    "example_translation": "నాకు ఒక టికెట్ కావాలి",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-19",
+    "topic": "Travel",
+    "english": "Where can I buy a bus pass?",
+    "translation": "బస్ పాస్ ఎక్కడ కొనగలను?",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Where can I buy a bus pass?.",
+    "example_translation": "బస్ పాస్ ఎక్కడ కొనగలను?",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-20",
+    "topic": "Travel",
+    "english": "How much is the ticket?",
+    "translation": "టికెట్ ధర ఎంత?",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: How much is the ticket?.",
+    "example_translation": "టికెట్ ధర ఎంత?",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-food-drink-1",
+    "topic": "Food & Drink",
+    "english": "Water",
+    "translation": "నీరు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Water.",
+    "example_translation": "నీరు",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-2",
+    "topic": "Food & Drink",
+    "english": "Tea",
+    "translation": "టీ",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Tea.",
+    "example_translation": "టీ",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-3",
+    "topic": "Food & Drink",
+    "english": "Coffee",
+    "translation": "కాఫీ",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Coffee.",
+    "example_translation": "కాఫీ",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-4",
+    "topic": "Food & Drink",
+    "english": "Milk",
+    "translation": "పాలు",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Milk.",
+    "example_translation": "పాలు",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-5",
+    "topic": "Food & Drink",
+    "english": "Bread",
+    "translation": "రొట్టి",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Bread.",
+    "example_translation": "రొట్టి",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-6",
+    "topic": "Food & Drink",
+    "english": "Rice",
+    "translation": "అన్నం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Rice.",
+    "example_translation": "అన్నం",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-7",
+    "topic": "Food & Drink",
+    "english": "Soup",
+    "translation": "సూప్",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Soup.",
+    "example_translation": "సూప్",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-8",
+    "topic": "Food & Drink",
+    "english": "Menu",
+    "translation": "మెనూ",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Menu.",
+    "example_translation": "మెనూ",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-9",
+    "topic": "Food & Drink",
+    "english": "Bill",
+    "translation": "బిల్",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Bill.",
+    "example_translation": "బిల్",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-10",
+    "topic": "Food & Drink",
+    "english": "Vegetarian",
+    "translation": "శాకాహారి",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Vegetarian.",
+    "example_translation": "శాకాహారి",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-11",
+    "topic": "Food & Drink",
+    "english": "Spicy",
+    "translation": "కారం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Spicy.",
+    "example_translation": "కారం",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-12",
+    "topic": "Food & Drink",
+    "english": "Sweet",
+    "translation": "తీపి",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Sweet.",
+    "example_translation": "తీపి",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-13",
+    "topic": "Food & Drink",
+    "english": "Salt",
+    "translation": "ఉప్పు",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Salt.",
+    "example_translation": "ఉప్పు",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-14",
+    "topic": "Food & Drink",
+    "english": "Sugar",
+    "translation": "చక్కెర",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Sugar.",
+    "example_translation": "చక్కెర",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-15",
+    "topic": "Food & Drink",
+    "english": "Breakfast",
+    "translation": "ఉపాహారం",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Breakfast.",
+    "example_translation": "ఉపాహారం",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-16",
+    "topic": "Food & Drink",
+    "english": "Lunch",
+    "translation": "మధ్యాహ్న భోజనం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Lunch.",
+    "example_translation": "మధ్యాహ్న భోజనం",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-17",
+    "topic": "Food & Drink",
+    "english": "Dinner",
+    "translation": "రాత్రి భోజనం",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Dinner.",
+    "example_translation": "రాత్రి భోజనం",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-18",
+    "topic": "Food & Drink",
+    "english": "I want tea",
+    "translation": "నాకు టీ కావాలి",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: I want tea.",
+    "example_translation": "నాకు టీ కావాలి",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-19",
+    "topic": "Food & Drink",
+    "english": "Please give me water",
+    "translation": "దయచేసి నాకు నీరు ఇవ్వండి",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Please give me water.",
+    "example_translation": "దయచేసి నాకు నీరు ఇవ్వండి",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-20",
+    "topic": "Food & Drink",
+    "english": "Can I see the menu?",
+    "translation": "నేను మెనూ చూడవచ్చా?",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Can I see the menu?.",
+    "example_translation": "నేను మెనూ చూడవచ్చా?",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-numbers-1",
+    "topic": "Numbers",
+    "english": "One",
+    "translation": "ఒకటి",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: One.",
+    "example_translation": "ఒకటి",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-2",
+    "topic": "Numbers",
+    "english": "Two",
+    "translation": "రెండు",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Two.",
+    "example_translation": "రెండు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-3",
+    "topic": "Numbers",
+    "english": "Three",
+    "translation": "మూడు",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Three.",
+    "example_translation": "మూడు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-4",
+    "topic": "Numbers",
+    "english": "Four",
+    "translation": "నాలుగు",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Four.",
+    "example_translation": "నాలుగు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-5",
+    "topic": "Numbers",
+    "english": "Five",
+    "translation": "ఐదు",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Five.",
+    "example_translation": "ఐదు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-6",
+    "topic": "Numbers",
+    "english": "Six",
+    "translation": "ఆరు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Six.",
+    "example_translation": "ఆరు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-7",
+    "topic": "Numbers",
+    "english": "Seven",
+    "translation": "ఏడు",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Seven.",
+    "example_translation": "ఏడు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-8",
+    "topic": "Numbers",
+    "english": "Eight",
+    "translation": "ఎనిమిది",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Eight.",
+    "example_translation": "ఎనిమిది",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-9",
+    "topic": "Numbers",
+    "english": "Nine",
+    "translation": "తొమ్మిది",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Nine.",
+    "example_translation": "తొమ్మిది",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-10",
+    "topic": "Numbers",
+    "english": "Ten",
+    "translation": "పది",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Ten.",
+    "example_translation": "పది",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-11",
+    "topic": "Numbers",
+    "english": "Eleven",
+    "translation": "పదకొండు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Eleven.",
+    "example_translation": "పదకొండు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-12",
+    "topic": "Numbers",
+    "english": "Twelve",
+    "translation": "పన్నెండు",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Twelve.",
+    "example_translation": "పన్నెండు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-13",
+    "topic": "Numbers",
+    "english": "Twenty",
+    "translation": "ఇరవై",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Twenty.",
+    "example_translation": "ఇరవై",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-14",
+    "topic": "Numbers",
+    "english": "Hundred",
+    "translation": "వంద",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Hundred.",
+    "example_translation": "వంద",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-15",
+    "topic": "Numbers",
+    "english": "First",
+    "translation": "మొదటి",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: First.",
+    "example_translation": "మొదటి",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-family-1",
+    "topic": "Family",
+    "english": "Mother",
+    "translation": "అమ్మ",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Mother.",
+    "example_translation": "అమ్మ",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-2",
+    "topic": "Family",
+    "english": "Father",
+    "translation": "నాన్న",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Father.",
+    "example_translation": "నాన్న",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-3",
+    "topic": "Family",
+    "english": "Brother",
+    "translation": "అన్నయ్య",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Brother.",
+    "example_translation": "అన్నయ్య",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-4",
+    "topic": "Family",
+    "english": "Sister",
+    "translation": "అక్క",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Sister.",
+    "example_translation": "అక్క",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-5",
+    "topic": "Family",
+    "english": "Son",
+    "translation": "కొడుకు",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Son.",
+    "example_translation": "కొడుకు",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-6",
+    "topic": "Family",
+    "english": "Daughter",
+    "translation": "కూతురు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Daughter.",
+    "example_translation": "కూతురు",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-7",
+    "topic": "Family",
+    "english": "Children",
+    "translation": "పిల్లలు",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Children.",
+    "example_translation": "పిల్లలు",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-8",
+    "topic": "Family",
+    "english": "Family",
+    "translation": "కుటుంబం",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Family.",
+    "example_translation": "కుటుంబం",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-9",
+    "topic": "Family",
+    "english": "Grandmother",
+    "translation": "అమ్మమ్మ",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Grandmother.",
+    "example_translation": "అమ్మమ్మ",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-10",
+    "topic": "Family",
+    "english": "Grandfather",
+    "translation": "తాతయ్య",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Grandfather.",
+    "example_translation": "తాతయ్య",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-11",
+    "topic": "Family",
+    "english": "Friend",
+    "translation": "స్నేహితుడు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Friend.",
+    "example_translation": "స్నేహితుడు",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-12",
+    "topic": "Family",
+    "english": "Parents",
+    "translation": "తల్లిదండ్రులు",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Parents.",
+    "example_translation": "తల్లిదండ్రులు",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-13",
+    "topic": "Family",
+    "english": "Baby",
+    "translation": "శిశువు",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Baby.",
+    "example_translation": "శిశువు",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-14",
+    "topic": "Family",
+    "english": "Husband",
+    "translation": "భర్త",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Husband.",
+    "example_translation": "భర్త",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-15",
+    "topic": "Family",
+    "english": "Wife",
+    "translation": "భార్య",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Wife.",
+    "example_translation": "భార్య",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-colors-1",
+    "topic": "Colors",
+    "english": "Red",
+    "translation": "ఎరుపు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Red.",
+    "example_translation": "ఎరుపు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-2",
+    "topic": "Colors",
+    "english": "Blue",
+    "translation": "నీలం",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Blue.",
+    "example_translation": "నీలం",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-3",
+    "topic": "Colors",
+    "english": "Green",
+    "translation": "ఆకుపచ్చ",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Green.",
+    "example_translation": "ఆకుపచ్చ",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-4",
+    "topic": "Colors",
+    "english": "Yellow",
+    "translation": "పసుపు",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Yellow.",
+    "example_translation": "పసుపు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-5",
+    "topic": "Colors",
+    "english": "Black",
+    "translation": "నలుపు",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Black.",
+    "example_translation": "నలుపు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-6",
+    "topic": "Colors",
+    "english": "White",
+    "translation": "తెలుపు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: White.",
+    "example_translation": "తెలుపు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-7",
+    "topic": "Colors",
+    "english": "Orange",
+    "translation": "నారింజ రంగు",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Orange.",
+    "example_translation": "నారింజ రంగు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-8",
+    "topic": "Colors",
+    "english": "Pink",
+    "translation": "గులాబీ రంగు",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Pink.",
+    "example_translation": "గులాబీ రంగు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-9",
+    "topic": "Colors",
+    "english": "Purple",
+    "translation": "ఊదా రంగు",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Purple.",
+    "example_translation": "ఊదా రంగు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-10",
+    "topic": "Colors",
+    "english": "Brown",
+    "translation": "గోధుమ రంగు",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Brown.",
+    "example_translation": "గోధుమ రంగు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-work-1",
+    "topic": "Work",
+    "english": "Work",
+    "translation": "పని",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Work.",
+    "example_translation": "పని",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-2",
+    "topic": "Work",
+    "english": "Office",
+    "translation": "ఆఫీస్",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Office.",
+    "example_translation": "ఆఫీస్",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-3",
+    "topic": "Work",
+    "english": "Meeting",
+    "translation": "సమావేశం",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Meeting.",
+    "example_translation": "సమావేశం",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-4",
+    "topic": "Work",
+    "english": "Email",
+    "translation": "ఈమెయిల్",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Email.",
+    "example_translation": "ఈమెయిల్",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-5",
+    "topic": "Work",
+    "english": "Project",
+    "translation": "ప్రాజెక్ట్",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Project.",
+    "example_translation": "ప్రాజెక్ట్",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-6",
+    "topic": "Work",
+    "english": "Deadline",
+    "translation": "గడువు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Deadline.",
+    "example_translation": "గడువు",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-7",
+    "topic": "Work",
+    "english": "Break",
+    "translation": "విరామం",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Break.",
+    "example_translation": "విరామం",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-8",
+    "topic": "Work",
+    "english": "Boss",
+    "translation": "బాస్",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Boss.",
+    "example_translation": "బాస్",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-9",
+    "topic": "Work",
+    "english": "Team",
+    "translation": "జట్టు",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Team.",
+    "example_translation": "జట్టు",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-10",
+    "topic": "Work",
+    "english": "Computer",
+    "translation": "కంప్యూటర్",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Computer.",
+    "example_translation": "కంప్యూటర్",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-11",
+    "topic": "Work",
+    "english": "Call",
+    "translation": "కాల్",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Call.",
+    "example_translation": "కాల్",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-12",
+    "topic": "Work",
+    "english": "Schedule",
+    "translation": "షెడ్యూల్",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Schedule.",
+    "example_translation": "షెడ్యూల్",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-13",
+    "topic": "Work",
+    "english": "Task",
+    "translation": "పని అంశం",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Task.",
+    "example_translation": "పని అంశం",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-14",
+    "topic": "Work",
+    "english": "I have a meeting today",
+    "translation": "నాకు ఈ రోజు సమావేశం ఉంది",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: I have a meeting today.",
+    "example_translation": "నాకు ఈ రోజు సమావేశం ఉంది",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-15",
+    "topic": "Work",
+    "english": "I sent the email",
+    "translation": "నేను ఈమెయిల్ పంపాను",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: I sent the email.",
+    "example_translation": "నేను ఈమెయిల్ పంపాను",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-time-1",
+    "topic": "Time",
+    "english": "Today",
+    "translation": "ఈ రోజు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Today.",
+    "example_translation": "ఈ రోజు",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-2",
+    "topic": "Time",
+    "english": "Tomorrow",
+    "translation": "రేపు",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Tomorrow.",
+    "example_translation": "రేపు",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-3",
+    "topic": "Time",
+    "english": "Yesterday",
+    "translation": "నిన్న",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Yesterday.",
+    "example_translation": "నిన్న",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-4",
+    "topic": "Time",
+    "english": "Now",
+    "translation": "ఇప్పుడు",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Now.",
+    "example_translation": "ఇప్పుడు",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-5",
+    "topic": "Time",
+    "english": "Later",
+    "translation": "తర్వాత",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Later.",
+    "example_translation": "తర్వాత",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-6",
+    "topic": "Time",
+    "english": "Morning",
+    "translation": "ఉదయం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Morning.",
+    "example_translation": "ఉదయం",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-7",
+    "topic": "Time",
+    "english": "Afternoon",
+    "translation": "మధ్యాహ్నం",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Afternoon.",
+    "example_translation": "మధ్యాహ్నం",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-8",
+    "topic": "Time",
+    "english": "Evening",
+    "translation": "సాయంత్రం",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Evening.",
+    "example_translation": "సాయంత్రం",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-9",
+    "topic": "Time",
+    "english": "Minute",
+    "translation": "నిమిషం",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Minute.",
+    "example_translation": "నిమిషం",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-10",
+    "topic": "Time",
+    "english": "Hour",
+    "translation": "గంట",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Hour.",
+    "example_translation": "గంట",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-11",
+    "topic": "Time",
+    "english": "Day",
+    "translation": "రోజు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Day.",
+    "example_translation": "రోజు",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-12",
+    "topic": "Time",
+    "english": "Week",
+    "translation": "వారం",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Week.",
+    "example_translation": "వారం",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-13",
+    "topic": "Time",
+    "english": "Month",
+    "translation": "నెల",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Month.",
+    "example_translation": "నెల",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-14",
+    "topic": "Time",
+    "english": "Year",
+    "translation": "సంవత్సరం",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Year.",
+    "example_translation": "సంవత్సరం",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-15",
+    "topic": "Time",
+    "english": "What time is it?",
+    "translation": "ఇప్పుడు సమయం ఎంత?",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: What time is it?.",
+    "example_translation": "ఇప్పుడు సమయం ఎంత?",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-essentials-1",
+    "topic": "Essentials",
+    "english": "Question",
+    "translation": "ప్రశ్న",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Question.",
+    "example_translation": "ప్రశ్న",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-2",
+    "topic": "Essentials",
+    "english": "Answer",
+    "translation": "జవాబు",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Answer.",
+    "example_translation": "జవాబు",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-3",
+    "topic": "Essentials",
+    "english": "Street",
+    "translation": "వీధి",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Street.",
+    "example_translation": "వీధి",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-4",
+    "topic": "Essentials",
+    "english": "Door",
+    "translation": "తలుపు",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Door.",
+    "example_translation": "తలుపు",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-5",
+    "topic": "Essentials",
+    "english": "Window",
+    "translation": "కిటికీ",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Window.",
+    "example_translation": "కిటికీ",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-6",
+    "topic": "Essentials",
+    "english": "Chair",
+    "translation": "కుర్చీ",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Chair.",
+    "example_translation": "కుర్చీ",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-7",
+    "topic": "Essentials",
+    "english": "Table",
+    "translation": "పట్టిక",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Table.",
+    "example_translation": "పట్టిక",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-8",
+    "topic": "Essentials",
+    "english": "Phone",
+    "translation": "ఫోన్",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Phone.",
+    "example_translation": "ఫోన్",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-9",
+    "topic": "Essentials",
+    "english": "Book",
+    "translation": "పుస్తకం",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Book.",
+    "example_translation": "పుస్తకం",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-10",
+    "topic": "Essentials",
+    "english": "Pen",
+    "translation": "పెన్",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Pen.",
+    "example_translation": "పెన్",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-11",
+    "topic": "Essentials",
+    "english": "Market",
+    "translation": "మార్కెట్",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Market.",
+    "example_translation": "మార్కెట్",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-12",
+    "topic": "Essentials",
+    "english": "Store",
+    "translation": "దుకాణం",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Store.",
+    "example_translation": "దుకాణం",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-13",
+    "topic": "Essentials",
+    "english": "Price",
+    "translation": "ధర",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Price.",
+    "example_translation": "ధర",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-14",
+    "topic": "Essentials",
+    "english": "Small",
+    "translation": "చిన్న",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Small.",
+    "example_translation": "చిన్న",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-15",
+    "topic": "Essentials",
+    "english": "Big",
+    "translation": "పెద్ద",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Big.",
+    "example_translation": "పెద్ద",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-16",
+    "topic": "Essentials",
+    "english": "Hot",
+    "translation": "వేడి",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Hot.",
+    "example_translation": "వేడి",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-17",
+    "topic": "Essentials",
+    "english": "Cold",
+    "translation": "చల్లని",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Cold.",
+    "example_translation": "చల్లని",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-18",
+    "topic": "Essentials",
+    "english": "Fast",
+    "translation": "వేగంగా",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Fast.",
+    "example_translation": "వేగంగా",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-19",
+    "topic": "Essentials",
+    "english": "Slow",
+    "translation": "నెమ్మదిగా",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Slow.",
+    "example_translation": "నెమ్మదిగా",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-20",
+    "topic": "Essentials",
+    "english": "Happy",
+    "translation": "సంతోషం",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Happy.",
+    "example_translation": "సంతోషం",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-21",
+    "topic": "Essentials",
+    "english": "Sad",
+    "translation": "దుఃఖం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Sad.",
+    "example_translation": "దుఃఖం",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-22",
+    "topic": "Essentials",
+    "english": "Easy",
+    "translation": "సులభం",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Easy.",
+    "example_translation": "సులభం",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-23",
+    "topic": "Essentials",
+    "english": "Difficult",
+    "translation": "కష్టం",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Difficult.",
+    "example_translation": "కష్టం",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-24",
+    "topic": "Essentials",
+    "english": "Open",
+    "translation": "తెరవడం",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Open.",
+    "example_translation": "తెరవడం",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-25",
+    "topic": "Essentials",
+    "english": "Close",
+    "translation": "మూయడం",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Close.",
+    "example_translation": "మూయడం",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-26",
+    "topic": "Essentials",
+    "english": "Help",
+    "translation": "సహాయం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Help.",
+    "example_translation": "సహాయం",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-27",
+    "topic": "Essentials",
+    "english": "Need",
+    "translation": "అవసరం",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Need.",
+    "example_translation": "అవసరం",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-28",
+    "topic": "Essentials",
+    "english": "Want",
+    "translation": "కోరుకోవడం",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Want.",
+    "example_translation": "కోరుకోవడం",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-29",
+    "topic": "Essentials",
+    "english": "Like",
+    "translation": "ఇష్టం",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Like.",
+    "example_translation": "ఇష్టం",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-30",
+    "topic": "Essentials",
+    "english": "Understand",
+    "translation": "అర్థం చేసుకోవడం",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Understand.",
+    "example_translation": "అర్థం చేసుకోవడం",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-31",
+    "topic": "Essentials",
+    "english": "Repeat",
+    "translation": "మళ్లీ చెప్పండి",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Repeat.",
+    "example_translation": "మళ్లీ చెప్పండి",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-32",
+    "topic": "Essentials",
+    "english": "Listen",
+    "translation": "వినండి",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Listen.",
+    "example_translation": "వినండి",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-33",
+    "topic": "Essentials",
+    "english": "Speak",
+    "translation": "మాట్లాడండి",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Speak.",
+    "example_translation": "మాట్లాడండి",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-34",
+    "topic": "Essentials",
+    "english": "Read",
+    "translation": "చదవండి",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Read.",
+    "example_translation": "చదవండి",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-35",
+    "topic": "Essentials",
+    "english": "Write",
+    "translation": "రాయండి",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Write.",
+    "example_translation": "రాయండి",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-36",
+    "topic": "Essentials",
+    "english": "Buy",
+    "translation": "కొనండి",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Buy.",
+    "example_translation": "కొనండి",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-37",
+    "topic": "Essentials",
+    "english": "Pay",
+    "translation": "చెల్లించండి",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Pay.",
+    "example_translation": "చెల్లించండి",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-38",
+    "topic": "Essentials",
+    "english": "Wait",
+    "translation": "వేచి ఉండండి",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Wait.",
+    "example_translation": "వేచి ఉండండి",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-39",
+    "topic": "Essentials",
+    "english": "Walk",
+    "translation": "నడవండి",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Walk.",
+    "example_translation": "నడవండి",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-essentials-40",
+    "topic": "Essentials",
+    "english": "Stop",
+    "translation": "ఆపండి",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Stop.",
+    "example_translation": "ఆపండి",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "te-greetings-1-alt",
+    "topic": "Greetings",
+    "english": "Hello",
+    "translation": "నమస్కారం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Hello.",
+    "example_translation": "నమస్కారం",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-2-alt",
+    "topic": "Greetings",
+    "english": "Good morning",
+    "translation": "శుభోదయం",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Good morning.",
+    "example_translation": "శుభోదయం",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-3-alt",
+    "topic": "Greetings",
+    "english": "Good afternoon",
+    "translation": "శుభ మధ్యాహ్నం",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Good afternoon.",
+    "example_translation": "శుభ మధ్యాహ్నం",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-4-alt",
+    "topic": "Greetings",
+    "english": "Good night",
+    "translation": "శుభ రాత్రి",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Good night.",
+    "example_translation": "శుభ రాత్రి",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-5-alt",
+    "topic": "Greetings",
+    "english": "How are you?",
+    "translation": "మీరు ఎలా ఉన్నారు?",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: How are you?.",
+    "example_translation": "మీరు ఎలా ఉన్నారు?",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-6-alt",
+    "topic": "Greetings",
+    "english": "Very well",
+    "translation": "చాలా బాగా",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Very well.",
+    "example_translation": "చాలా బాగా",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-7-alt",
+    "topic": "Greetings",
+    "english": "Please",
+    "translation": "దయచేసి",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Please.",
+    "example_translation": "దయచేసి",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-8-alt",
+    "topic": "Greetings",
+    "english": "Thank you",
+    "translation": "ధన్యవాదాలు",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Thank you.",
+    "example_translation": "ధన్యవాదాలు",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-9-alt",
+    "topic": "Greetings",
+    "english": "You are welcome",
+    "translation": "స్వాగతం",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: You are welcome.",
+    "example_translation": "స్వాగతం",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-10-alt",
+    "topic": "Greetings",
+    "english": "See you later",
+    "translation": "తర్వాత కలుద్దాం",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: See you later.",
+    "example_translation": "తర్వాత కలుద్దాం",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-11-alt",
+    "topic": "Greetings",
+    "english": "See you tomorrow",
+    "translation": "రేపు కలుద్దాం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: See you tomorrow.",
+    "example_translation": "రేపు కలుద్దాం",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-12-alt",
+    "topic": "Greetings",
+    "english": "Nice to meet you",
+    "translation": "మిమ్మల్ని కలవడం ఆనందంగా ఉంది",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Nice to meet you.",
+    "example_translation": "మిమ్మల్ని కలవడం ఆనందంగా ఉంది",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-13-alt",
+    "topic": "Greetings",
+    "english": "Excuse me",
+    "translation": "క్షమించండి",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Excuse me.",
+    "example_translation": "క్షమించండి",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-14-alt",
+    "topic": "Greetings",
+    "english": "Sorry",
+    "translation": "క్షమించండి",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Sorry.",
+    "example_translation": "క్షమించండి",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-15-alt",
+    "topic": "Greetings",
+    "english": "Yes",
+    "translation": "అవును",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Yes.",
+    "example_translation": "అవును",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-16-alt",
+    "topic": "Greetings",
+    "english": "No",
+    "translation": "లేదు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: No.",
+    "example_translation": "లేదు",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-17-alt",
+    "topic": "Greetings",
+    "english": "Maybe",
+    "translation": "బహుశా",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Maybe.",
+    "example_translation": "బహుశా",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-18-alt",
+    "topic": "Greetings",
+    "english": "Of course",
+    "translation": "ఖచ్చితంగా",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Of course.",
+    "example_translation": "ఖచ్చితంగా",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-19-alt",
+    "topic": "Greetings",
+    "english": "What is your name?",
+    "translation": "మీ పేరు ఏమిటి?",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: What is your name?.",
+    "example_translation": "మీ పేరు ఏమిటి?",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-greetings-20-alt",
+    "topic": "Greetings",
+    "english": "My name is...",
+    "translation": "నా పేరు ...",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: My name is....",
+    "example_translation": "నా పేరు ...",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "te-travel-1-alt",
+    "topic": "Travel",
+    "english": "Station",
+    "translation": "స్టేషన్",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Station.",
+    "example_translation": "స్టేషన్",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-2-alt",
+    "topic": "Travel",
+    "english": "Airport",
+    "translation": "విమానాశ్రయం",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Airport.",
+    "example_translation": "విమానాశ్రయం",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-3-alt",
+    "topic": "Travel",
+    "english": "Bus",
+    "translation": "బస్సు",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Bus.",
+    "example_translation": "బస్సు",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-4-alt",
+    "topic": "Travel",
+    "english": "Train",
+    "translation": "రైలు",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Train.",
+    "example_translation": "రైలు",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-5-alt",
+    "topic": "Travel",
+    "english": "Ticket",
+    "translation": "టికెట్",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Ticket.",
+    "example_translation": "టికెట్",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-6-alt",
+    "topic": "Travel",
+    "english": "Platform",
+    "translation": "ప్లాట్‌ఫాం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Platform.",
+    "example_translation": "ప్లాట్‌ఫాం",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-7-alt",
+    "topic": "Travel",
+    "english": "Taxi",
+    "translation": "టాక్సీ",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Taxi.",
+    "example_translation": "టాక్సీ",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-8-alt",
+    "topic": "Travel",
+    "english": "Luggage",
+    "translation": "సామాను",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Luggage.",
+    "example_translation": "సామాను",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-9-alt",
+    "topic": "Travel",
+    "english": "Passport",
+    "translation": "పాస్‌పోర్ట్",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Passport.",
+    "example_translation": "పాస్‌పోర్ట్",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-10-alt",
+    "topic": "Travel",
+    "english": "Map",
+    "translation": "మ్యాప్",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Map.",
+    "example_translation": "మ్యాప్",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-11-alt",
+    "topic": "Travel",
+    "english": "Hotel",
+    "translation": "హోటల్",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Hotel.",
+    "example_translation": "హోటల్",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-12-alt",
+    "topic": "Travel",
+    "english": "Room",
+    "translation": "గది",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Room.",
+    "example_translation": "గది",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-13-alt",
+    "topic": "Travel",
+    "english": "Reservation",
+    "translation": "రిజర్వేషన్",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Reservation.",
+    "example_translation": "రిజర్వేషన్",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-14-alt",
+    "topic": "Travel",
+    "english": "Left",
+    "translation": "ఎడమ",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Left.",
+    "example_translation": "ఎడమ",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-15-alt",
+    "topic": "Travel",
+    "english": "Right",
+    "translation": "కుడి",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Right.",
+    "example_translation": "కుడి",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-16-alt",
+    "topic": "Travel",
+    "english": "Straight ahead",
+    "translation": "నేరుగా",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Straight ahead.",
+    "example_translation": "నేరుగా",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-17-alt",
+    "topic": "Travel",
+    "english": "Where is the station?",
+    "translation": "స్టేషన్ ఎక్కడ ఉంది?",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Where is the station?.",
+    "example_translation": "స్టేషన్ ఎక్కడ ఉంది?",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-18-alt",
+    "topic": "Travel",
+    "english": "I need a ticket",
+    "translation": "నాకు ఒక టికెట్ కావాలి",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: I need a ticket.",
+    "example_translation": "నాకు ఒక టికెట్ కావాలి",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-19-alt",
+    "topic": "Travel",
+    "english": "Where can I buy a bus pass?",
+    "translation": "బస్ పాస్ ఎక్కడ కొనగలను?",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Where can I buy a bus pass?.",
+    "example_translation": "బస్ పాస్ ఎక్కడ కొనగలను?",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-travel-20-alt",
+    "topic": "Travel",
+    "english": "How much is the ticket?",
+    "translation": "టికెట్ ధర ఎంత?",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: How much is the ticket?.",
+    "example_translation": "టికెట్ ధర ఎంత?",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "te-food-drink-1-alt",
+    "topic": "Food & Drink",
+    "english": "Water",
+    "translation": "నీరు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Water.",
+    "example_translation": "నీరు",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-2-alt",
+    "topic": "Food & Drink",
+    "english": "Tea",
+    "translation": "టీ",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Tea.",
+    "example_translation": "టీ",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-3-alt",
+    "topic": "Food & Drink",
+    "english": "Coffee",
+    "translation": "కాఫీ",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Coffee.",
+    "example_translation": "కాఫీ",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-4-alt",
+    "topic": "Food & Drink",
+    "english": "Milk",
+    "translation": "పాలు",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Milk.",
+    "example_translation": "పాలు",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-5-alt",
+    "topic": "Food & Drink",
+    "english": "Bread",
+    "translation": "రొట్టి",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Bread.",
+    "example_translation": "రొట్టి",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-6-alt",
+    "topic": "Food & Drink",
+    "english": "Rice",
+    "translation": "అన్నం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Rice.",
+    "example_translation": "అన్నం",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-7-alt",
+    "topic": "Food & Drink",
+    "english": "Soup",
+    "translation": "సూప్",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Soup.",
+    "example_translation": "సూప్",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-8-alt",
+    "topic": "Food & Drink",
+    "english": "Menu",
+    "translation": "మెనూ",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Menu.",
+    "example_translation": "మెనూ",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-9-alt",
+    "topic": "Food & Drink",
+    "english": "Bill",
+    "translation": "బిల్",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Bill.",
+    "example_translation": "బిల్",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-10-alt",
+    "topic": "Food & Drink",
+    "english": "Vegetarian",
+    "translation": "శాకాహారి",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Vegetarian.",
+    "example_translation": "శాకాహారి",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-11-alt",
+    "topic": "Food & Drink",
+    "english": "Spicy",
+    "translation": "కారం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Spicy.",
+    "example_translation": "కారం",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-12-alt",
+    "topic": "Food & Drink",
+    "english": "Sweet",
+    "translation": "తీపి",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Sweet.",
+    "example_translation": "తీపి",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-13-alt",
+    "topic": "Food & Drink",
+    "english": "Salt",
+    "translation": "ఉప్పు",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Salt.",
+    "example_translation": "ఉప్పు",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-14-alt",
+    "topic": "Food & Drink",
+    "english": "Sugar",
+    "translation": "చక్కెర",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Sugar.",
+    "example_translation": "చక్కెర",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-15-alt",
+    "topic": "Food & Drink",
+    "english": "Breakfast",
+    "translation": "ఉపాహారం",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Breakfast.",
+    "example_translation": "ఉపాహారం",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-16-alt",
+    "topic": "Food & Drink",
+    "english": "Lunch",
+    "translation": "మధ్యాహ్న భోజనం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Lunch.",
+    "example_translation": "మధ్యాహ్న భోజనం",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-17-alt",
+    "topic": "Food & Drink",
+    "english": "Dinner",
+    "translation": "రాత్రి భోజనం",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Dinner.",
+    "example_translation": "రాత్రి భోజనం",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-18-alt",
+    "topic": "Food & Drink",
+    "english": "I want tea",
+    "translation": "నాకు టీ కావాలి",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: I want tea.",
+    "example_translation": "నాకు టీ కావాలి",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-19-alt",
+    "topic": "Food & Drink",
+    "english": "Please give me water",
+    "translation": "దయచేసి నాకు నీరు ఇవ్వండి",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Please give me water.",
+    "example_translation": "దయచేసి నాకు నీరు ఇవ్వండి",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-food-drink-20-alt",
+    "topic": "Food & Drink",
+    "english": "Can I see the menu?",
+    "translation": "నేను మెనూ చూడవచ్చా?",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Can I see the menu?.",
+    "example_translation": "నేను మెనూ చూడవచ్చా?",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "te-numbers-1-alt",
+    "topic": "Numbers",
+    "english": "One",
+    "translation": "ఒకటి",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: One.",
+    "example_translation": "ఒకటి",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-2-alt",
+    "topic": "Numbers",
+    "english": "Two",
+    "translation": "రెండు",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Two.",
+    "example_translation": "రెండు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-3-alt",
+    "topic": "Numbers",
+    "english": "Three",
+    "translation": "మూడు",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Three.",
+    "example_translation": "మూడు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-4-alt",
+    "topic": "Numbers",
+    "english": "Four",
+    "translation": "నాలుగు",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Four.",
+    "example_translation": "నాలుగు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-5-alt",
+    "topic": "Numbers",
+    "english": "Five",
+    "translation": "ఐదు",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Five.",
+    "example_translation": "ఐదు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-6-alt",
+    "topic": "Numbers",
+    "english": "Six",
+    "translation": "ఆరు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Six.",
+    "example_translation": "ఆరు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-7-alt",
+    "topic": "Numbers",
+    "english": "Seven",
+    "translation": "ఏడు",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Seven.",
+    "example_translation": "ఏడు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-8-alt",
+    "topic": "Numbers",
+    "english": "Eight",
+    "translation": "ఎనిమిది",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Eight.",
+    "example_translation": "ఎనిమిది",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-9-alt",
+    "topic": "Numbers",
+    "english": "Nine",
+    "translation": "తొమ్మిది",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Nine.",
+    "example_translation": "తొమ్మిది",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-10-alt",
+    "topic": "Numbers",
+    "english": "Ten",
+    "translation": "పది",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Ten.",
+    "example_translation": "పది",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-11-alt",
+    "topic": "Numbers",
+    "english": "Eleven",
+    "translation": "పదకొండు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Eleven.",
+    "example_translation": "పదకొండు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-12-alt",
+    "topic": "Numbers",
+    "english": "Twelve",
+    "translation": "పన్నెండు",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Twelve.",
+    "example_translation": "పన్నెండు",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-13-alt",
+    "topic": "Numbers",
+    "english": "Twenty",
+    "translation": "ఇరవై",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Twenty.",
+    "example_translation": "ఇరవై",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-14-alt",
+    "topic": "Numbers",
+    "english": "Hundred",
+    "translation": "వంద",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Hundred.",
+    "example_translation": "వంద",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-numbers-15-alt",
+    "topic": "Numbers",
+    "english": "First",
+    "translation": "మొదటి",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: First.",
+    "example_translation": "మొదటి",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "te-family-1-alt",
+    "topic": "Family",
+    "english": "Mother",
+    "translation": "అమ్మ",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Mother.",
+    "example_translation": "అమ్మ",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-2-alt",
+    "topic": "Family",
+    "english": "Father",
+    "translation": "నాన్న",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Father.",
+    "example_translation": "నాన్న",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-3-alt",
+    "topic": "Family",
+    "english": "Brother",
+    "translation": "అన్నయ్య",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Brother.",
+    "example_translation": "అన్నయ్య",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-4-alt",
+    "topic": "Family",
+    "english": "Sister",
+    "translation": "అక్క",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Sister.",
+    "example_translation": "అక్క",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-5-alt",
+    "topic": "Family",
+    "english": "Son",
+    "translation": "కొడుకు",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Son.",
+    "example_translation": "కొడుకు",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-6-alt",
+    "topic": "Family",
+    "english": "Daughter",
+    "translation": "కూతురు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Daughter.",
+    "example_translation": "కూతురు",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-7-alt",
+    "topic": "Family",
+    "english": "Children",
+    "translation": "పిల్లలు",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Children.",
+    "example_translation": "పిల్లలు",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-8-alt",
+    "topic": "Family",
+    "english": "Family",
+    "translation": "కుటుంబం",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Family.",
+    "example_translation": "కుటుంబం",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-9-alt",
+    "topic": "Family",
+    "english": "Grandmother",
+    "translation": "అమ్మమ్మ",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Grandmother.",
+    "example_translation": "అమ్మమ్మ",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-10-alt",
+    "topic": "Family",
+    "english": "Grandfather",
+    "translation": "తాతయ్య",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Grandfather.",
+    "example_translation": "తాతయ్య",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-11-alt",
+    "topic": "Family",
+    "english": "Friend",
+    "translation": "స్నేహితుడు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Friend.",
+    "example_translation": "స్నేహితుడు",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-12-alt",
+    "topic": "Family",
+    "english": "Parents",
+    "translation": "తల్లిదండ్రులు",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Parents.",
+    "example_translation": "తల్లిదండ్రులు",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-13-alt",
+    "topic": "Family",
+    "english": "Baby",
+    "translation": "శిశువు",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Baby.",
+    "example_translation": "శిశువు",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-14-alt",
+    "topic": "Family",
+    "english": "Husband",
+    "translation": "భర్త",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Husband.",
+    "example_translation": "భర్త",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-family-15-alt",
+    "topic": "Family",
+    "english": "Wife",
+    "translation": "భార్య",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Wife.",
+    "example_translation": "భార్య",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "te-colors-1-alt",
+    "topic": "Colors",
+    "english": "Red",
+    "translation": "ఎరుపు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Red.",
+    "example_translation": "ఎరుపు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-2-alt",
+    "topic": "Colors",
+    "english": "Blue",
+    "translation": "నీలం",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Blue.",
+    "example_translation": "నీలం",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-3-alt",
+    "topic": "Colors",
+    "english": "Green",
+    "translation": "ఆకుపచ్చ",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Green.",
+    "example_translation": "ఆకుపచ్చ",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-4-alt",
+    "topic": "Colors",
+    "english": "Yellow",
+    "translation": "పసుపు",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Yellow.",
+    "example_translation": "పసుపు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-5-alt",
+    "topic": "Colors",
+    "english": "Black",
+    "translation": "నలుపు",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Black.",
+    "example_translation": "నలుపు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-6-alt",
+    "topic": "Colors",
+    "english": "White",
+    "translation": "తెలుపు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: White.",
+    "example_translation": "తెలుపు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-7-alt",
+    "topic": "Colors",
+    "english": "Orange",
+    "translation": "నారింజ రంగు",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Orange.",
+    "example_translation": "నారింజ రంగు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-8-alt",
+    "topic": "Colors",
+    "english": "Pink",
+    "translation": "గులాబీ రంగు",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Pink.",
+    "example_translation": "గులాబీ రంగు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-9-alt",
+    "topic": "Colors",
+    "english": "Purple",
+    "translation": "ఊదా రంగు",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Purple.",
+    "example_translation": "ఊదా రంగు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-colors-10-alt",
+    "topic": "Colors",
+    "english": "Brown",
+    "translation": "గోధుమ రంగు",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Brown.",
+    "example_translation": "గోధుమ రంగు",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "te-work-1-alt",
+    "topic": "Work",
+    "english": "Work",
+    "translation": "పని",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Work.",
+    "example_translation": "పని",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-2-alt",
+    "topic": "Work",
+    "english": "Office",
+    "translation": "ఆఫీస్",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Office.",
+    "example_translation": "ఆఫీస్",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-3-alt",
+    "topic": "Work",
+    "english": "Meeting",
+    "translation": "సమావేశం",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Meeting.",
+    "example_translation": "సమావేశం",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-4-alt",
+    "topic": "Work",
+    "english": "Email",
+    "translation": "ఈమెయిల్",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Email.",
+    "example_translation": "ఈమెయిల్",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-5-alt",
+    "topic": "Work",
+    "english": "Project",
+    "translation": "ప్రాజెక్ట్",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Project.",
+    "example_translation": "ప్రాజెక్ట్",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-6-alt",
+    "topic": "Work",
+    "english": "Deadline",
+    "translation": "గడువు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Deadline.",
+    "example_translation": "గడువు",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-7-alt",
+    "topic": "Work",
+    "english": "Break",
+    "translation": "విరామం",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Break.",
+    "example_translation": "విరామం",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-8-alt",
+    "topic": "Work",
+    "english": "Boss",
+    "translation": "బాస్",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Boss.",
+    "example_translation": "బాస్",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-9-alt",
+    "topic": "Work",
+    "english": "Team",
+    "translation": "జట్టు",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Team.",
+    "example_translation": "జట్టు",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-10-alt",
+    "topic": "Work",
+    "english": "Computer",
+    "translation": "కంప్యూటర్",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Computer.",
+    "example_translation": "కంప్యూటర్",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-11-alt",
+    "topic": "Work",
+    "english": "Call",
+    "translation": "కాల్",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Call.",
+    "example_translation": "కాల్",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-12-alt",
+    "topic": "Work",
+    "english": "Schedule",
+    "translation": "షెడ్యూల్",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Schedule.",
+    "example_translation": "షెడ్యూల్",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-13-alt",
+    "topic": "Work",
+    "english": "Task",
+    "translation": "పని అంశం",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Task.",
+    "example_translation": "పని అంశం",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-14-alt",
+    "topic": "Work",
+    "english": "I have a meeting today",
+    "translation": "నాకు ఈ రోజు సమావేశం ఉంది",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: I have a meeting today.",
+    "example_translation": "నాకు ఈ రోజు సమావేశం ఉంది",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-work-15-alt",
+    "topic": "Work",
+    "english": "I sent the email",
+    "translation": "నేను ఈమెయిల్ పంపాను",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: I sent the email.",
+    "example_translation": "నేను ఈమెయిల్ పంపాను",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "te-time-1-alt",
+    "topic": "Time",
+    "english": "Today",
+    "translation": "ఈ రోజు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "time",
+      "practice"
+    ],
+    "example_en": "Practice: Today.",
+    "example_translation": "ఈ రోజు",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-2-alt",
+    "topic": "Time",
+    "english": "Tomorrow",
+    "translation": "రేపు",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "time",
+      "practice"
+    ],
+    "example_en": "Practice: Tomorrow.",
+    "example_translation": "రేపు",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-3-alt",
+    "topic": "Time",
+    "english": "Yesterday",
+    "translation": "నిన్న",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "time",
+      "practice"
+    ],
+    "example_en": "Practice: Yesterday.",
+    "example_translation": "నిన్న",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-4-alt",
+    "topic": "Time",
+    "english": "Now",
+    "translation": "ఇప్పుడు",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "time",
+      "practice"
+    ],
+    "example_en": "Practice: Now.",
+    "example_translation": "ఇప్పుడు",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-time-5-alt",
+    "topic": "Time",
+    "english": "Later",
+    "translation": "తర్వాత",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "time",
+      "practice"
+    ],
+    "example_en": "Practice: Later.",
+    "example_translation": "తర్వాత",
+    "tip": "Core time vocabulary."
+  }
+]

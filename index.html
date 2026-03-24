@@ -1273,6 +1273,18 @@
       label: "Quiz",
       subtitle: "Answer a quick multiple-choice prompt and track your score."
     },
+    match: {
+      label: "Match",
+      subtitle: "Match the word to the right translation."
+    },
+    multi: {
+      label: "Multi-Answer",
+      subtitle: "Choose every answer that fits the prompt."
+    },
+    reorder: {
+      label: "Sentence Builder",
+      subtitle: "Rebuild a useful phrase in the right order."
+    },
     phrase: {
       label: "Phrase Builder",
       subtitle: "Translate an English phrase and see the structure underneath."
@@ -1288,8 +1300,8 @@
   const STORAGE_PROGRESS_KEY = "lingua_canvas_progress";
 
   const DATA = {
-    es: { flash: {}, quiz: {}, phrase: {}, convoOpeners: {} },
-    te: { flash: {}, quiz: {}, phrase: {}, convoOpeners: {} }
+    es: { flash: {}, quiz: {}, phrase: {}, convoOpeners: {}, vocabulary: [] },
+    te: { flash: {}, quiz: {}, phrase: {}, convoOpeners: {}, vocabulary: [] }
   };
 
   const SUPABASE_CONFIG = {
@@ -1670,6 +1682,9 @@
   let quizScore = loadSavedProgress();
   let phraseValue = "";
   let phraseResult = null;
+  let matchRound = null;
+  let multiRound = null;
+  let reorderRound = null;
   let chatScenario = "at a cafe";
   let chatHistory = [];
   let chatLoading = false;
@@ -1698,8 +1713,8 @@
   }
 
   function datasetCounts() {
-    const spanish = Object.values(DATA.es.flash || {}).reduce((sum, items) => sum + items.length, 0) || Object.values(FALLBACK.es.flash || {}).reduce((sum, items) => sum + items.length, 0);
-    const telugu = Object.values(DATA.te.flash || {}).reduce((sum, items) => sum + items.length, 0) || Object.values(FALLBACK.te.flash || {}).reduce((sum, items) => sum + items.length, 0);
+    const spanish = (DATA.es.vocabulary && DATA.es.vocabulary.length) || Object.values(DATA.es.flash || {}).reduce((sum, items) => sum + items.length, 0) || Object.values(FALLBACK.es.flash || {}).reduce((sum, items) => sum + items.length, 0);
+    const telugu = (DATA.te.vocabulary && DATA.te.vocabulary.length) || Object.values(DATA.te.flash || {}).reduce((sum, items) => sum + items.length, 0) || Object.values(FALLBACK.te.flash || {}).reduce((sum, items) => sum + items.length, 0);
     return { spanish, telugu };
   }
 
@@ -1789,6 +1804,8 @@
     DATA.te.phrase = await loadDataFile('./data/phrases.te.json', FALLBACK.te.phrase);
     DATA.es.convoOpeners = await loadDataFile('./data/conversation-openers.es.json', FALLBACK.es.convoOpeners);
     DATA.te.convoOpeners = await loadDataFile('./data/conversation-openers.te.json', FALLBACK.te.convoOpeners);
+    DATA.es.vocabulary = await loadDataFile('./data/vocabulary.es.json', []);
+    DATA.te.vocabulary = await loadDataFile('./data/vocabulary.te.json', []);
   }
 
   async function fetchSupabaseTable(table) {
@@ -2085,6 +2102,171 @@
     renderQuizCard(option);
   }
 
+
+  function vocabularyPool() {
+    return DATA[lang]?.vocabulary?.length ? DATA[lang].vocabulary : [];
+  }
+
+  function randomItems(pool, count) {
+    const copy = [...pool];
+    const out = [];
+    while (copy.length && out.length < count) {
+      out.push(copy.splice(Math.floor(Math.random() * copy.length), 1)[0]);
+    }
+    return out;
+  }
+
+  function buildMatchRound() {
+    const items = randomItems(vocabularyPool().filter(item => item.translation && item.english), 4);
+    if (items.length < 4) return null;
+    return {
+      prompt: 'Match each English item to the right translation.',
+      items,
+      options: randomItems(items.map(item => item.translation), 4)
+    };
+  }
+
+  function buildMultiRound() {
+    const pool = vocabularyPool();
+    const topic = TOPICS[Math.floor(Math.random() * TOPICS.length)];
+    const correct = randomItems(pool.filter(item => item.topic === topic), 3);
+    const wrong = randomItems(pool.filter(item => item.topic !== topic), 3);
+    return {
+      topic,
+      choices: randomItems([...correct.map(item => ({ ...item, correct: true })), ...wrong.map(item => ({ ...item, correct: false }))], 6)
+    };
+  }
+
+  function buildReorderRound() {
+    const candidates = vocabularyPool().filter(item => item.english.includes(' ') && item.translation.includes(' '));
+    const picked = candidates[Math.floor(Math.random() * candidates.length)];
+    if (!picked) return null;
+    const tokens = picked.translation.split(' ');
+    return {
+      english: picked.english,
+      answer: picked.translation,
+      tokens: randomItems(tokens, tokens.length)
+    };
+  }
+
+  function renderMatch() {
+    matchRound = buildMatchRound();
+    const content = document.getElementById('content');
+    if (!matchRound) {
+      content.innerHTML = '<p class="helper">Not enough vocabulary yet for match mode.</p>';
+      return;
+    }
+    content.innerHTML = `
+      <div class="fade-up">
+        <div class="translation-card">
+          <div class="card-overline">Match</div>
+          <p class="helper">${matchRound.prompt}</p>
+          <div class="word-row" style="margin-top:18px;">
+            ${matchRound.items.map(item => `<div class="word-chip"><strong>${escapeHtml(item.english)}</strong><span>${escapeHtml(item.topic)}</span></div>`).join('')}
+          </div>
+          <div class="quiz-grid" style="margin-top:18px;">
+            ${matchRound.items.map(item => `
+              <button class="option-btn" type="button" onclick="checkMatch('${item.id}','${item.translation.replace(/'/g, "\'")}')">${escapeHtml(item.english)} → ?</button>
+            `).join('')}
+          </div>
+          <div class="word-row" style="margin-top:18px;">
+            ${matchRound.options.map(option => `<div class="word-chip"><strong>${escapeHtml(option)}</strong></div>`).join('')}
+          </div>
+          <div class="cta-row"><button class="btn-pill" type="button" onclick="renderMatch()">New Match Round</button></div>
+        </div>
+      </div>
+    `;
+  }
+
+  function checkMatch(id, translation) {
+    statusText(`Target answer: ${translation}`, 'ok');
+  }
+
+  function renderMulti() {
+    multiRound = buildMultiRound();
+    const content = document.getElementById('content');
+    if (!multiRound) {
+      content.innerHTML = '<p class="helper">Not enough vocabulary yet for multi-answer mode.</p>';
+      return;
+    }
+    content.innerHTML = `
+      <div class="fade-up">
+        <div class="translation-card">
+          <div class="card-overline">Multi-Answer</div>
+          <p class="helper">Choose all items related to <strong>${escapeHtml(multiRound.topic)}</strong>.</p>
+          <div class="quiz-grid">
+            ${multiRound.choices.map((choice, idx) => `<button class="option-btn" type="button" onclick="toggleMultiAnswer(${idx})" id="multi-${idx}">${escapeHtml(choice.english)}<br><span class="helper">${escapeHtml(choice.translation)}</span></button>`).join('')}
+          </div>
+          <div class="cta-row">
+            <button class="btn-pill" type="button" onclick="submitMultiAnswer()">Check Answers</button>
+            <button class="btn-pill ghost" type="button" onclick="renderMulti()">New Round</button>
+          </div>
+        </div>
+      </div>
+    `;
+    multiRound.selected = new Set();
+  }
+
+  function toggleMultiAnswer(idx) {
+    if (!multiRound?.selected) return;
+    const btn = document.getElementById(`multi-${idx}`);
+    if (multiRound.selected.has(idx)) {
+      multiRound.selected.delete(idx);
+      btn?.classList.remove('active');
+    } else {
+      multiRound.selected.add(idx);
+      btn?.classList.add('active');
+    }
+  }
+
+  function submitMultiAnswer() {
+    if (!multiRound) return;
+    let good = true;
+    multiRound.choices.forEach((choice, idx) => {
+      const selected = multiRound.selected.has(idx);
+      if (choice.correct && !selected) good = false;
+      if (!choice.correct && selected) good = false;
+    });
+    statusText(good ? 'Nice — you picked the right set.' : 'Not quite. Try another multi-answer round.', good ? 'ok' : 'bad');
+  }
+
+  function renderReorder() {
+    reorderRound = buildReorderRound();
+    const content = document.getElementById('content');
+    if (!reorderRound) {
+      content.innerHTML = '<p class="helper">Not enough phrase-style entries yet for sentence builder mode.</p>';
+      return;
+    }
+    content.innerHTML = `
+      <div class="fade-up">
+        <div class="translation-card">
+          <div class="card-overline">Sentence Builder</div>
+          <p class="helper">Build the target-language phrase for: <strong>${escapeHtml(reorderRound.english)}</strong></p>
+          <div class="word-row">
+            ${reorderRound.tokens.map(token => `<button class="word-chip" type="button" onclick="addReorderToken('${token.replace(/'/g, "\'")}')">${escapeHtml(token)}</button>`).join('')}
+          </div>
+          <div id="reorder-output" class="translation-text" style="margin-top:18px;"></div>
+          <div class="cta-row">
+            <button class="btn-pill" type="button" onclick="checkReorder()">Check</button>
+            <button class="btn-pill ghost" type="button" onclick="renderReorder()">New Sentence</button>
+          </div>
+        </div>
+      </div>
+    `;
+    reorderRound.current = [];
+  }
+
+  function addReorderToken(token) {
+    reorderRound.current.push(token);
+    document.getElementById('reorder-output').textContent = reorderRound.current.join(' ');
+  }
+
+  function checkReorder() {
+    const attempt = (reorderRound.current || []).join(' ').trim();
+    const ok = attempt === reorderRound.answer;
+    statusText(ok ? 'Nice — sentence complete.' : `Target: ${reorderRound.answer}`, ok ? 'ok' : 'bad');
+  }
+
   function renderPhrase() {
     const content = document.getElementById("content");
     content.innerHTML = `
@@ -2243,6 +2425,9 @@
     renderStageMeta();
     if (mode === "flash") renderFlash();
     else if (mode === "quiz") renderQuiz();
+    else if (mode === "match") renderMatch();
+    else if (mode === "multi") renderMulti();
+    else if (mode === "reorder") renderReorder();
     else if (mode === "phrase") renderPhrase();
     else renderConversation();
   }

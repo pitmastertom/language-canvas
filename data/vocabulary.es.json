@@ -1,0 +1,4472 @@
+[
+  {
+    "id": "es-greetings-1",
+    "topic": "Greetings",
+    "english": "Hello",
+    "translation": "Hola",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Hello.",
+    "example_translation": "Hola",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-2",
+    "topic": "Greetings",
+    "english": "Good morning",
+    "translation": "Buenos días",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Good morning.",
+    "example_translation": "Buenos días",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-3",
+    "topic": "Greetings",
+    "english": "Good afternoon",
+    "translation": "Buenas tardes",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Good afternoon.",
+    "example_translation": "Buenas tardes",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-4",
+    "topic": "Greetings",
+    "english": "Good night",
+    "translation": "Buenas noches",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Good night.",
+    "example_translation": "Buenas noches",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-5",
+    "topic": "Greetings",
+    "english": "How are you?",
+    "translation": "¿Cómo estás?",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: How are you?.",
+    "example_translation": "¿Cómo estás?",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-6",
+    "topic": "Greetings",
+    "english": "Very well",
+    "translation": "Muy bien",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Very well.",
+    "example_translation": "Muy bien",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-7",
+    "topic": "Greetings",
+    "english": "Please",
+    "translation": "Por favor",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Please.",
+    "example_translation": "Por favor",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-8",
+    "topic": "Greetings",
+    "english": "Thank you",
+    "translation": "Gracias",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Thank you.",
+    "example_translation": "Gracias",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-9",
+    "topic": "Greetings",
+    "english": "You are welcome",
+    "translation": "De nada",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: You are welcome.",
+    "example_translation": "De nada",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-10",
+    "topic": "Greetings",
+    "english": "See you later",
+    "translation": "Hasta luego",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: See you later.",
+    "example_translation": "Hasta luego",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-11",
+    "topic": "Greetings",
+    "english": "See you tomorrow",
+    "translation": "Hasta mañana",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: See you tomorrow.",
+    "example_translation": "Hasta mañana",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-12",
+    "topic": "Greetings",
+    "english": "Nice to meet you",
+    "translation": "Mucho gusto",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Nice to meet you.",
+    "example_translation": "Mucho gusto",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-13",
+    "topic": "Greetings",
+    "english": "Excuse me",
+    "translation": "Perdón",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Excuse me.",
+    "example_translation": "Perdón",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-14",
+    "topic": "Greetings",
+    "english": "Sorry",
+    "translation": "Lo siento",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Sorry.",
+    "example_translation": "Lo siento",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-15",
+    "topic": "Greetings",
+    "english": "Yes",
+    "translation": "Sí",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Yes.",
+    "example_translation": "Sí",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-16",
+    "topic": "Greetings",
+    "english": "No",
+    "translation": "No",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: No.",
+    "example_translation": "No",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-17",
+    "topic": "Greetings",
+    "english": "Maybe",
+    "translation": "Quizás",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Maybe.",
+    "example_translation": "Quizás",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-18",
+    "topic": "Greetings",
+    "english": "Of course",
+    "translation": "Claro",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: Of course.",
+    "example_translation": "Claro",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-19",
+    "topic": "Greetings",
+    "english": "What is your name?",
+    "translation": "¿Cómo te llamas?",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: What is your name?.",
+    "example_translation": "¿Cómo te llamas?",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-20",
+    "topic": "Greetings",
+    "english": "My name is...",
+    "translation": "Me llamo...",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings"
+    ],
+    "example_en": "Practice: My name is....",
+    "example_translation": "Me llamo...",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-travel-1",
+    "topic": "Travel",
+    "english": "Station",
+    "translation": "Estación",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Station.",
+    "example_translation": "Estación",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-2",
+    "topic": "Travel",
+    "english": "Airport",
+    "translation": "Aeropuerto",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Airport.",
+    "example_translation": "Aeropuerto",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-3",
+    "topic": "Travel",
+    "english": "Bus",
+    "translation": "Autobús",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Bus.",
+    "example_translation": "Autobús",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-4",
+    "topic": "Travel",
+    "english": "Train",
+    "translation": "Tren",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Train.",
+    "example_translation": "Tren",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-5",
+    "topic": "Travel",
+    "english": "Ticket",
+    "translation": "Boleto",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Ticket.",
+    "example_translation": "Boleto",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-6",
+    "topic": "Travel",
+    "english": "Platform",
+    "translation": "Andén",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Platform.",
+    "example_translation": "Andén",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-7",
+    "topic": "Travel",
+    "english": "Taxi",
+    "translation": "Taxi",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Taxi.",
+    "example_translation": "Taxi",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-8",
+    "topic": "Travel",
+    "english": "Luggage",
+    "translation": "Equipaje",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Luggage.",
+    "example_translation": "Equipaje",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-9",
+    "topic": "Travel",
+    "english": "Passport",
+    "translation": "Pasaporte",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Passport.",
+    "example_translation": "Pasaporte",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-10",
+    "topic": "Travel",
+    "english": "Map",
+    "translation": "Mapa",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Map.",
+    "example_translation": "Mapa",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-11",
+    "topic": "Travel",
+    "english": "Hotel",
+    "translation": "Hotel",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Hotel.",
+    "example_translation": "Hotel",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-12",
+    "topic": "Travel",
+    "english": "Room",
+    "translation": "Habitación",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Room.",
+    "example_translation": "Habitación",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-13",
+    "topic": "Travel",
+    "english": "Reservation",
+    "translation": "Reserva",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Reservation.",
+    "example_translation": "Reserva",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-14",
+    "topic": "Travel",
+    "english": "Left",
+    "translation": "Izquierda",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Left.",
+    "example_translation": "Izquierda",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-15",
+    "topic": "Travel",
+    "english": "Right",
+    "translation": "Derecha",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Right.",
+    "example_translation": "Derecha",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-16",
+    "topic": "Travel",
+    "english": "Straight ahead",
+    "translation": "Todo recto",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Straight ahead.",
+    "example_translation": "Todo recto",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-17",
+    "topic": "Travel",
+    "english": "Where is the station?",
+    "translation": "¿Dónde está la estación?",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Where is the station?.",
+    "example_translation": "¿Dónde está la estación?",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-18",
+    "topic": "Travel",
+    "english": "I need a ticket",
+    "translation": "Necesito un boleto",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: I need a ticket.",
+    "example_translation": "Necesito un boleto",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-19",
+    "topic": "Travel",
+    "english": "Where can I buy a bus pass?",
+    "translation": "¿Dónde puedo comprar un pase de autobús?",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: Where can I buy a bus pass?.",
+    "example_translation": "¿Dónde puedo comprar un pase de autobús?",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-20",
+    "topic": "Travel",
+    "english": "How much is the ticket?",
+    "translation": "¿Cuánto cuesta el boleto?",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel"
+    ],
+    "example_en": "Practice: How much is the ticket?.",
+    "example_translation": "¿Cuánto cuesta el boleto?",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-food-drink-1",
+    "topic": "Food & Drink",
+    "english": "Water",
+    "translation": "Agua",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Water.",
+    "example_translation": "Agua",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-2",
+    "topic": "Food & Drink",
+    "english": "Tea",
+    "translation": "Té",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Tea.",
+    "example_translation": "Té",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-3",
+    "topic": "Food & Drink",
+    "english": "Coffee",
+    "translation": "Café",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Coffee.",
+    "example_translation": "Café",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-4",
+    "topic": "Food & Drink",
+    "english": "Milk",
+    "translation": "Leche",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Milk.",
+    "example_translation": "Leche",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-5",
+    "topic": "Food & Drink",
+    "english": "Bread",
+    "translation": "Pan",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Bread.",
+    "example_translation": "Pan",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-6",
+    "topic": "Food & Drink",
+    "english": "Rice",
+    "translation": "Arroz",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Rice.",
+    "example_translation": "Arroz",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-7",
+    "topic": "Food & Drink",
+    "english": "Soup",
+    "translation": "Sopa",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Soup.",
+    "example_translation": "Sopa",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-8",
+    "topic": "Food & Drink",
+    "english": "Menu",
+    "translation": "Menú",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Menu.",
+    "example_translation": "Menú",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-9",
+    "topic": "Food & Drink",
+    "english": "Bill",
+    "translation": "Cuenta",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Bill.",
+    "example_translation": "Cuenta",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-10",
+    "topic": "Food & Drink",
+    "english": "Vegetarian",
+    "translation": "Vegetariano",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Vegetarian.",
+    "example_translation": "Vegetariano",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-11",
+    "topic": "Food & Drink",
+    "english": "Spicy",
+    "translation": "Picante",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Spicy.",
+    "example_translation": "Picante",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-12",
+    "topic": "Food & Drink",
+    "english": "Sweet",
+    "translation": "Dulce",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Sweet.",
+    "example_translation": "Dulce",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-13",
+    "topic": "Food & Drink",
+    "english": "Salt",
+    "translation": "Sal",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Salt.",
+    "example_translation": "Sal",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-14",
+    "topic": "Food & Drink",
+    "english": "Sugar",
+    "translation": "Azúcar",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Sugar.",
+    "example_translation": "Azúcar",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-15",
+    "topic": "Food & Drink",
+    "english": "Breakfast",
+    "translation": "Desayuno",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Breakfast.",
+    "example_translation": "Desayuno",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-16",
+    "topic": "Food & Drink",
+    "english": "Lunch",
+    "translation": "Almuerzo",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Lunch.",
+    "example_translation": "Almuerzo",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-17",
+    "topic": "Food & Drink",
+    "english": "Dinner",
+    "translation": "Cena",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Dinner.",
+    "example_translation": "Cena",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-18",
+    "topic": "Food & Drink",
+    "english": "I would like coffee",
+    "translation": "Quisiera café",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: I would like coffee.",
+    "example_translation": "Quisiera café",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-19",
+    "topic": "Food & Drink",
+    "english": "The check, please",
+    "translation": "La cuenta, por favor",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: The check, please.",
+    "example_translation": "La cuenta, por favor",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-20",
+    "topic": "Food & Drink",
+    "english": "Can I see the menu?",
+    "translation": "¿Puedo ver el menú?",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink"
+    ],
+    "example_en": "Practice: Can I see the menu?.",
+    "example_translation": "¿Puedo ver el menú?",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-numbers-1",
+    "topic": "Numbers",
+    "english": "One",
+    "translation": "Uno",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: One.",
+    "example_translation": "Uno",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-2",
+    "topic": "Numbers",
+    "english": "Two",
+    "translation": "Dos",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Two.",
+    "example_translation": "Dos",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-3",
+    "topic": "Numbers",
+    "english": "Three",
+    "translation": "Tres",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Three.",
+    "example_translation": "Tres",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-4",
+    "topic": "Numbers",
+    "english": "Four",
+    "translation": "Cuatro",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Four.",
+    "example_translation": "Cuatro",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-5",
+    "topic": "Numbers",
+    "english": "Five",
+    "translation": "Cinco",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Five.",
+    "example_translation": "Cinco",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-6",
+    "topic": "Numbers",
+    "english": "Six",
+    "translation": "Seis",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Six.",
+    "example_translation": "Seis",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-7",
+    "topic": "Numbers",
+    "english": "Seven",
+    "translation": "Siete",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Seven.",
+    "example_translation": "Siete",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-8",
+    "topic": "Numbers",
+    "english": "Eight",
+    "translation": "Ocho",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Eight.",
+    "example_translation": "Ocho",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-9",
+    "topic": "Numbers",
+    "english": "Nine",
+    "translation": "Nueve",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Nine.",
+    "example_translation": "Nueve",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-10",
+    "topic": "Numbers",
+    "english": "Ten",
+    "translation": "Diez",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Ten.",
+    "example_translation": "Diez",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-11",
+    "topic": "Numbers",
+    "english": "Eleven",
+    "translation": "Once",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Eleven.",
+    "example_translation": "Once",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-12",
+    "topic": "Numbers",
+    "english": "Twelve",
+    "translation": "Doce",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Twelve.",
+    "example_translation": "Doce",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-13",
+    "topic": "Numbers",
+    "english": "Twenty",
+    "translation": "Veinte",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Twenty.",
+    "example_translation": "Veinte",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-14",
+    "topic": "Numbers",
+    "english": "Hundred",
+    "translation": "Cien",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: Hundred.",
+    "example_translation": "Cien",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-15",
+    "topic": "Numbers",
+    "english": "First",
+    "translation": "Primero",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers"
+    ],
+    "example_en": "Practice: First.",
+    "example_translation": "Primero",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-family-1",
+    "topic": "Family",
+    "english": "Mother",
+    "translation": "Madre",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Mother.",
+    "example_translation": "Madre",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-2",
+    "topic": "Family",
+    "english": "Father",
+    "translation": "Padre",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Father.",
+    "example_translation": "Padre",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-3",
+    "topic": "Family",
+    "english": "Brother",
+    "translation": "Hermano",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Brother.",
+    "example_translation": "Hermano",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-4",
+    "topic": "Family",
+    "english": "Sister",
+    "translation": "Hermana",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Sister.",
+    "example_translation": "Hermana",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-5",
+    "topic": "Family",
+    "english": "Son",
+    "translation": "Hijo",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Son.",
+    "example_translation": "Hijo",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-6",
+    "topic": "Family",
+    "english": "Daughter",
+    "translation": "Hija",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Daughter.",
+    "example_translation": "Hija",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-7",
+    "topic": "Family",
+    "english": "Children",
+    "translation": "Niños",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Children.",
+    "example_translation": "Niños",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-8",
+    "topic": "Family",
+    "english": "Family",
+    "translation": "Familia",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Family.",
+    "example_translation": "Familia",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-9",
+    "topic": "Family",
+    "english": "Grandmother",
+    "translation": "Abuela",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Grandmother.",
+    "example_translation": "Abuela",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-10",
+    "topic": "Family",
+    "english": "Grandfather",
+    "translation": "Abuelo",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Grandfather.",
+    "example_translation": "Abuelo",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-11",
+    "topic": "Family",
+    "english": "Friend",
+    "translation": "Amigo",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Friend.",
+    "example_translation": "Amigo",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-12",
+    "topic": "Family",
+    "english": "Parents",
+    "translation": "Padres",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Parents.",
+    "example_translation": "Padres",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-13",
+    "topic": "Family",
+    "english": "Baby",
+    "translation": "Bebé",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Baby.",
+    "example_translation": "Bebé",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-14",
+    "topic": "Family",
+    "english": "Husband",
+    "translation": "Esposo",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Husband.",
+    "example_translation": "Esposo",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-15",
+    "topic": "Family",
+    "english": "Wife",
+    "translation": "Esposa",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "family"
+    ],
+    "example_en": "Practice: Wife.",
+    "example_translation": "Esposa",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-colors-1",
+    "topic": "Colors",
+    "english": "Red",
+    "translation": "Rojo",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Red.",
+    "example_translation": "Rojo",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-2",
+    "topic": "Colors",
+    "english": "Blue",
+    "translation": "Azul",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Blue.",
+    "example_translation": "Azul",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-3",
+    "topic": "Colors",
+    "english": "Green",
+    "translation": "Verde",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Green.",
+    "example_translation": "Verde",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-4",
+    "topic": "Colors",
+    "english": "Yellow",
+    "translation": "Amarillo",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Yellow.",
+    "example_translation": "Amarillo",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-5",
+    "topic": "Colors",
+    "english": "Black",
+    "translation": "Negro",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Black.",
+    "example_translation": "Negro",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-6",
+    "topic": "Colors",
+    "english": "White",
+    "translation": "Blanco",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: White.",
+    "example_translation": "Blanco",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-7",
+    "topic": "Colors",
+    "english": "Orange",
+    "translation": "Naranja",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Orange.",
+    "example_translation": "Naranja",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-8",
+    "topic": "Colors",
+    "english": "Pink",
+    "translation": "Rosa",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Pink.",
+    "example_translation": "Rosa",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-9",
+    "topic": "Colors",
+    "english": "Purple",
+    "translation": "Morado",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Purple.",
+    "example_translation": "Morado",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-10",
+    "topic": "Colors",
+    "english": "Brown",
+    "translation": "Marrón",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "colors"
+    ],
+    "example_en": "Practice: Brown.",
+    "example_translation": "Marrón",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-work-1",
+    "topic": "Work",
+    "english": "Work",
+    "translation": "Trabajo",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Work.",
+    "example_translation": "Trabajo",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-2",
+    "topic": "Work",
+    "english": "Office",
+    "translation": "Oficina",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Office.",
+    "example_translation": "Oficina",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-3",
+    "topic": "Work",
+    "english": "Meeting",
+    "translation": "Reunión",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Meeting.",
+    "example_translation": "Reunión",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-4",
+    "topic": "Work",
+    "english": "Email",
+    "translation": "Correo electrónico",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Email.",
+    "example_translation": "Correo electrónico",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-5",
+    "topic": "Work",
+    "english": "Project",
+    "translation": "Proyecto",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Project.",
+    "example_translation": "Proyecto",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-6",
+    "topic": "Work",
+    "english": "Deadline",
+    "translation": "Fecha límite",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Deadline.",
+    "example_translation": "Fecha límite",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-7",
+    "topic": "Work",
+    "english": "Break",
+    "translation": "Descanso",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Break.",
+    "example_translation": "Descanso",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-8",
+    "topic": "Work",
+    "english": "Boss",
+    "translation": "Jefe",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Boss.",
+    "example_translation": "Jefe",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-9",
+    "topic": "Work",
+    "english": "Team",
+    "translation": "Equipo",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Team.",
+    "example_translation": "Equipo",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-10",
+    "topic": "Work",
+    "english": "Computer",
+    "translation": "Computadora",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Computer.",
+    "example_translation": "Computadora",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-11",
+    "topic": "Work",
+    "english": "Call",
+    "translation": "Llamada",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Call.",
+    "example_translation": "Llamada",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-12",
+    "topic": "Work",
+    "english": "Schedule",
+    "translation": "Horario",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Schedule.",
+    "example_translation": "Horario",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-13",
+    "topic": "Work",
+    "english": "Task",
+    "translation": "Tarea",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Task.",
+    "example_translation": "Tarea",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-14",
+    "topic": "Work",
+    "english": "Today I have a meeting",
+    "translation": "Hoy tengo una reunión",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: Today I have a meeting.",
+    "example_translation": "Hoy tengo una reunión",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-15",
+    "topic": "Work",
+    "english": "I sent the email",
+    "translation": "Envié el correo",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "work"
+    ],
+    "example_en": "Practice: I sent the email.",
+    "example_translation": "Envié el correo",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-time-1",
+    "topic": "Time",
+    "english": "Today",
+    "translation": "Hoy",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Today.",
+    "example_translation": "Hoy",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-2",
+    "topic": "Time",
+    "english": "Tomorrow",
+    "translation": "Mañana",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Tomorrow.",
+    "example_translation": "Mañana",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-3",
+    "topic": "Time",
+    "english": "Yesterday",
+    "translation": "Ayer",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Yesterday.",
+    "example_translation": "Ayer",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-4",
+    "topic": "Time",
+    "english": "Now",
+    "translation": "Ahora",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Now.",
+    "example_translation": "Ahora",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-5",
+    "topic": "Time",
+    "english": "Later",
+    "translation": "Luego",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Later.",
+    "example_translation": "Luego",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-6",
+    "topic": "Time",
+    "english": "Morning",
+    "translation": "Mañana",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Morning.",
+    "example_translation": "Mañana",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-7",
+    "topic": "Time",
+    "english": "Afternoon",
+    "translation": "Tarde",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Afternoon.",
+    "example_translation": "Tarde",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-8",
+    "topic": "Time",
+    "english": "Evening",
+    "translation": "Noche",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Evening.",
+    "example_translation": "Noche",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-9",
+    "topic": "Time",
+    "english": "Minute",
+    "translation": "Minuto",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Minute.",
+    "example_translation": "Minuto",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-10",
+    "topic": "Time",
+    "english": "Hour",
+    "translation": "Hora",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Hour.",
+    "example_translation": "Hora",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-11",
+    "topic": "Time",
+    "english": "Day",
+    "translation": "Día",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Day.",
+    "example_translation": "Día",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-12",
+    "topic": "Time",
+    "english": "Week",
+    "translation": "Semana",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Week.",
+    "example_translation": "Semana",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-13",
+    "topic": "Time",
+    "english": "Month",
+    "translation": "Mes",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Month.",
+    "example_translation": "Mes",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-14",
+    "topic": "Time",
+    "english": "Year",
+    "translation": "Año",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: Year.",
+    "example_translation": "Año",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-15",
+    "topic": "Time",
+    "english": "What time is it?",
+    "translation": "¿Qué hora es?",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "time"
+    ],
+    "example_en": "Practice: What time is it?.",
+    "example_translation": "¿Qué hora es?",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-essentials-1",
+    "topic": "Essentials",
+    "english": "Question",
+    "translation": "Pregunta",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Question.",
+    "example_translation": "Pregunta",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-2",
+    "topic": "Essentials",
+    "english": "Answer",
+    "translation": "Respuesta",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Answer.",
+    "example_translation": "Respuesta",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-3",
+    "topic": "Essentials",
+    "english": "Street",
+    "translation": "Calle",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Street.",
+    "example_translation": "Calle",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-4",
+    "topic": "Essentials",
+    "english": "Door",
+    "translation": "Puerta",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Door.",
+    "example_translation": "Puerta",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-5",
+    "topic": "Essentials",
+    "english": "Window",
+    "translation": "Ventana",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Window.",
+    "example_translation": "Ventana",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-6",
+    "topic": "Essentials",
+    "english": "Chair",
+    "translation": "Silla",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Chair.",
+    "example_translation": "Silla",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-7",
+    "topic": "Essentials",
+    "english": "Table",
+    "translation": "Mesa",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Table.",
+    "example_translation": "Mesa",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-8",
+    "topic": "Essentials",
+    "english": "Phone",
+    "translation": "Teléfono",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Phone.",
+    "example_translation": "Teléfono",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-9",
+    "topic": "Essentials",
+    "english": "Book",
+    "translation": "Libro",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Book.",
+    "example_translation": "Libro",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-10",
+    "topic": "Essentials",
+    "english": "Pen",
+    "translation": "Bolígrafo",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Pen.",
+    "example_translation": "Bolígrafo",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-11",
+    "topic": "Essentials",
+    "english": "Market",
+    "translation": "Mercado",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Market.",
+    "example_translation": "Mercado",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-12",
+    "topic": "Essentials",
+    "english": "Store",
+    "translation": "Tienda",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Store.",
+    "example_translation": "Tienda",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-13",
+    "topic": "Essentials",
+    "english": "Price",
+    "translation": "Precio",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Price.",
+    "example_translation": "Precio",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-14",
+    "topic": "Essentials",
+    "english": "Small",
+    "translation": "Pequeño",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Small.",
+    "example_translation": "Pequeño",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-15",
+    "topic": "Essentials",
+    "english": "Big",
+    "translation": "Grande",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Big.",
+    "example_translation": "Grande",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-16",
+    "topic": "Essentials",
+    "english": "Hot",
+    "translation": "Caliente",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Hot.",
+    "example_translation": "Caliente",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-17",
+    "topic": "Essentials",
+    "english": "Cold",
+    "translation": "Frío",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Cold.",
+    "example_translation": "Frío",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-18",
+    "topic": "Essentials",
+    "english": "Fast",
+    "translation": "Rápido",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Fast.",
+    "example_translation": "Rápido",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-19",
+    "topic": "Essentials",
+    "english": "Slow",
+    "translation": "Lento",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Slow.",
+    "example_translation": "Lento",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-20",
+    "topic": "Essentials",
+    "english": "Happy",
+    "translation": "Feliz",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Happy.",
+    "example_translation": "Feliz",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-21",
+    "topic": "Essentials",
+    "english": "Sad",
+    "translation": "Triste",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Sad.",
+    "example_translation": "Triste",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-22",
+    "topic": "Essentials",
+    "english": "Easy",
+    "translation": "Fácil",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Easy.",
+    "example_translation": "Fácil",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-23",
+    "topic": "Essentials",
+    "english": "Difficult",
+    "translation": "Difícil",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Difficult.",
+    "example_translation": "Difícil",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-24",
+    "topic": "Essentials",
+    "english": "Open",
+    "translation": "Abrir",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Open.",
+    "example_translation": "Abrir",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-25",
+    "topic": "Essentials",
+    "english": "Close",
+    "translation": "Cerrar",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Close.",
+    "example_translation": "Cerrar",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-26",
+    "topic": "Essentials",
+    "english": "Help",
+    "translation": "Ayuda",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Help.",
+    "example_translation": "Ayuda",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-27",
+    "topic": "Essentials",
+    "english": "Need",
+    "translation": "Necesitar",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Need.",
+    "example_translation": "Necesitar",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-28",
+    "topic": "Essentials",
+    "english": "Want",
+    "translation": "Querer",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Want.",
+    "example_translation": "Querer",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-29",
+    "topic": "Essentials",
+    "english": "Like",
+    "translation": "Gustar",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Like.",
+    "example_translation": "Gustar",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-30",
+    "topic": "Essentials",
+    "english": "Understand",
+    "translation": "Entender",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Understand.",
+    "example_translation": "Entender",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-31",
+    "topic": "Essentials",
+    "english": "Repeat",
+    "translation": "Repetir",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Repeat.",
+    "example_translation": "Repetir",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-32",
+    "topic": "Essentials",
+    "english": "Listen",
+    "translation": "Escuchar",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Listen.",
+    "example_translation": "Escuchar",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-33",
+    "topic": "Essentials",
+    "english": "Speak",
+    "translation": "Hablar",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Speak.",
+    "example_translation": "Hablar",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-34",
+    "topic": "Essentials",
+    "english": "Read",
+    "translation": "Leer",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Read.",
+    "example_translation": "Leer",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-35",
+    "topic": "Essentials",
+    "english": "Write",
+    "translation": "Escribir",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Write.",
+    "example_translation": "Escribir",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-36",
+    "topic": "Essentials",
+    "english": "Buy",
+    "translation": "Comprar",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Buy.",
+    "example_translation": "Comprar",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-37",
+    "topic": "Essentials",
+    "english": "Pay",
+    "translation": "Pagar",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Pay.",
+    "example_translation": "Pagar",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-38",
+    "topic": "Essentials",
+    "english": "Wait",
+    "translation": "Esperar",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Wait.",
+    "example_translation": "Esperar",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-39",
+    "topic": "Essentials",
+    "english": "Walk",
+    "translation": "Caminar",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Walk.",
+    "example_translation": "Caminar",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-essentials-40",
+    "topic": "Essentials",
+    "english": "Stop",
+    "translation": "Parar",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "essentials"
+    ],
+    "example_en": "Practice: Stop.",
+    "example_translation": "Parar",
+    "tip": "Core essentials vocabulary."
+  },
+  {
+    "id": "es-greetings-1-alt",
+    "topic": "Greetings",
+    "english": "Hello",
+    "translation": "Hola",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Hello.",
+    "example_translation": "Hola",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-2-alt",
+    "topic": "Greetings",
+    "english": "Good morning",
+    "translation": "Buenos días",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Good morning.",
+    "example_translation": "Buenos días",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-3-alt",
+    "topic": "Greetings",
+    "english": "Good afternoon",
+    "translation": "Buenas tardes",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Good afternoon.",
+    "example_translation": "Buenas tardes",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-4-alt",
+    "topic": "Greetings",
+    "english": "Good night",
+    "translation": "Buenas noches",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Good night.",
+    "example_translation": "Buenas noches",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-5-alt",
+    "topic": "Greetings",
+    "english": "How are you?",
+    "translation": "¿Cómo estás?",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: How are you?.",
+    "example_translation": "¿Cómo estás?",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-6-alt",
+    "topic": "Greetings",
+    "english": "Very well",
+    "translation": "Muy bien",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Very well.",
+    "example_translation": "Muy bien",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-7-alt",
+    "topic": "Greetings",
+    "english": "Please",
+    "translation": "Por favor",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Please.",
+    "example_translation": "Por favor",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-8-alt",
+    "topic": "Greetings",
+    "english": "Thank you",
+    "translation": "Gracias",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Thank you.",
+    "example_translation": "Gracias",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-9-alt",
+    "topic": "Greetings",
+    "english": "You are welcome",
+    "translation": "De nada",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: You are welcome.",
+    "example_translation": "De nada",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-10-alt",
+    "topic": "Greetings",
+    "english": "See you later",
+    "translation": "Hasta luego",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: See you later.",
+    "example_translation": "Hasta luego",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-11-alt",
+    "topic": "Greetings",
+    "english": "See you tomorrow",
+    "translation": "Hasta mañana",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: See you tomorrow.",
+    "example_translation": "Hasta mañana",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-12-alt",
+    "topic": "Greetings",
+    "english": "Nice to meet you",
+    "translation": "Mucho gusto",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Nice to meet you.",
+    "example_translation": "Mucho gusto",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-13-alt",
+    "topic": "Greetings",
+    "english": "Excuse me",
+    "translation": "Perdón",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Excuse me.",
+    "example_translation": "Perdón",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-14-alt",
+    "topic": "Greetings",
+    "english": "Sorry",
+    "translation": "Lo siento",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Sorry.",
+    "example_translation": "Lo siento",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-15-alt",
+    "topic": "Greetings",
+    "english": "Yes",
+    "translation": "Sí",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Yes.",
+    "example_translation": "Sí",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-16-alt",
+    "topic": "Greetings",
+    "english": "No",
+    "translation": "No",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: No.",
+    "example_translation": "No",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-17-alt",
+    "topic": "Greetings",
+    "english": "Maybe",
+    "translation": "Quizás",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Maybe.",
+    "example_translation": "Quizás",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-18-alt",
+    "topic": "Greetings",
+    "english": "Of course",
+    "translation": "Claro",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: Of course.",
+    "example_translation": "Claro",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-19-alt",
+    "topic": "Greetings",
+    "english": "What is your name?",
+    "translation": "¿Cómo te llamas?",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: What is your name?.",
+    "example_translation": "¿Cómo te llamas?",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-greetings-20-alt",
+    "topic": "Greetings",
+    "english": "My name is...",
+    "translation": "Me llamo...",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "greetings",
+      "practice"
+    ],
+    "example_en": "Practice: My name is....",
+    "example_translation": "Me llamo...",
+    "tip": "Core greetings vocabulary."
+  },
+  {
+    "id": "es-travel-1-alt",
+    "topic": "Travel",
+    "english": "Station",
+    "translation": "Estación",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Station.",
+    "example_translation": "Estación",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-2-alt",
+    "topic": "Travel",
+    "english": "Airport",
+    "translation": "Aeropuerto",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Airport.",
+    "example_translation": "Aeropuerto",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-3-alt",
+    "topic": "Travel",
+    "english": "Bus",
+    "translation": "Autobús",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Bus.",
+    "example_translation": "Autobús",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-4-alt",
+    "topic": "Travel",
+    "english": "Train",
+    "translation": "Tren",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Train.",
+    "example_translation": "Tren",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-5-alt",
+    "topic": "Travel",
+    "english": "Ticket",
+    "translation": "Boleto",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Ticket.",
+    "example_translation": "Boleto",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-6-alt",
+    "topic": "Travel",
+    "english": "Platform",
+    "translation": "Andén",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Platform.",
+    "example_translation": "Andén",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-7-alt",
+    "topic": "Travel",
+    "english": "Taxi",
+    "translation": "Taxi",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Taxi.",
+    "example_translation": "Taxi",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-8-alt",
+    "topic": "Travel",
+    "english": "Luggage",
+    "translation": "Equipaje",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Luggage.",
+    "example_translation": "Equipaje",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-9-alt",
+    "topic": "Travel",
+    "english": "Passport",
+    "translation": "Pasaporte",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Passport.",
+    "example_translation": "Pasaporte",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-10-alt",
+    "topic": "Travel",
+    "english": "Map",
+    "translation": "Mapa",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Map.",
+    "example_translation": "Mapa",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-11-alt",
+    "topic": "Travel",
+    "english": "Hotel",
+    "translation": "Hotel",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Hotel.",
+    "example_translation": "Hotel",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-12-alt",
+    "topic": "Travel",
+    "english": "Room",
+    "translation": "Habitación",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Room.",
+    "example_translation": "Habitación",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-13-alt",
+    "topic": "Travel",
+    "english": "Reservation",
+    "translation": "Reserva",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Reservation.",
+    "example_translation": "Reserva",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-14-alt",
+    "topic": "Travel",
+    "english": "Left",
+    "translation": "Izquierda",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Left.",
+    "example_translation": "Izquierda",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-15-alt",
+    "topic": "Travel",
+    "english": "Right",
+    "translation": "Derecha",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Right.",
+    "example_translation": "Derecha",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-16-alt",
+    "topic": "Travel",
+    "english": "Straight ahead",
+    "translation": "Todo recto",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Straight ahead.",
+    "example_translation": "Todo recto",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-17-alt",
+    "topic": "Travel",
+    "english": "Where is the station?",
+    "translation": "¿Dónde está la estación?",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Where is the station?.",
+    "example_translation": "¿Dónde está la estación?",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-18-alt",
+    "topic": "Travel",
+    "english": "I need a ticket",
+    "translation": "Necesito un boleto",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: I need a ticket.",
+    "example_translation": "Necesito un boleto",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-19-alt",
+    "topic": "Travel",
+    "english": "Where can I buy a bus pass?",
+    "translation": "¿Dónde puedo comprar un pase de autobús?",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: Where can I buy a bus pass?.",
+    "example_translation": "¿Dónde puedo comprar un pase de autobús?",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-travel-20-alt",
+    "topic": "Travel",
+    "english": "How much is the ticket?",
+    "translation": "¿Cuánto cuesta el boleto?",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "travel",
+      "practice"
+    ],
+    "example_en": "Practice: How much is the ticket?.",
+    "example_translation": "¿Cuánto cuesta el boleto?",
+    "tip": "Core travel vocabulary."
+  },
+  {
+    "id": "es-food-drink-1-alt",
+    "topic": "Food & Drink",
+    "english": "Water",
+    "translation": "Agua",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Water.",
+    "example_translation": "Agua",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-2-alt",
+    "topic": "Food & Drink",
+    "english": "Tea",
+    "translation": "Té",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Tea.",
+    "example_translation": "Té",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-3-alt",
+    "topic": "Food & Drink",
+    "english": "Coffee",
+    "translation": "Café",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Coffee.",
+    "example_translation": "Café",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-4-alt",
+    "topic": "Food & Drink",
+    "english": "Milk",
+    "translation": "Leche",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Milk.",
+    "example_translation": "Leche",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-5-alt",
+    "topic": "Food & Drink",
+    "english": "Bread",
+    "translation": "Pan",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Bread.",
+    "example_translation": "Pan",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-6-alt",
+    "topic": "Food & Drink",
+    "english": "Rice",
+    "translation": "Arroz",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Rice.",
+    "example_translation": "Arroz",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-7-alt",
+    "topic": "Food & Drink",
+    "english": "Soup",
+    "translation": "Sopa",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Soup.",
+    "example_translation": "Sopa",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-8-alt",
+    "topic": "Food & Drink",
+    "english": "Menu",
+    "translation": "Menú",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Menu.",
+    "example_translation": "Menú",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-9-alt",
+    "topic": "Food & Drink",
+    "english": "Bill",
+    "translation": "Cuenta",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Bill.",
+    "example_translation": "Cuenta",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-10-alt",
+    "topic": "Food & Drink",
+    "english": "Vegetarian",
+    "translation": "Vegetariano",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Vegetarian.",
+    "example_translation": "Vegetariano",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-11-alt",
+    "topic": "Food & Drink",
+    "english": "Spicy",
+    "translation": "Picante",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Spicy.",
+    "example_translation": "Picante",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-12-alt",
+    "topic": "Food & Drink",
+    "english": "Sweet",
+    "translation": "Dulce",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Sweet.",
+    "example_translation": "Dulce",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-13-alt",
+    "topic": "Food & Drink",
+    "english": "Salt",
+    "translation": "Sal",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Salt.",
+    "example_translation": "Sal",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-14-alt",
+    "topic": "Food & Drink",
+    "english": "Sugar",
+    "translation": "Azúcar",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Sugar.",
+    "example_translation": "Azúcar",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-15-alt",
+    "topic": "Food & Drink",
+    "english": "Breakfast",
+    "translation": "Desayuno",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Breakfast.",
+    "example_translation": "Desayuno",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-16-alt",
+    "topic": "Food & Drink",
+    "english": "Lunch",
+    "translation": "Almuerzo",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Lunch.",
+    "example_translation": "Almuerzo",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-17-alt",
+    "topic": "Food & Drink",
+    "english": "Dinner",
+    "translation": "Cena",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Dinner.",
+    "example_translation": "Cena",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-18-alt",
+    "topic": "Food & Drink",
+    "english": "I would like coffee",
+    "translation": "Quisiera café",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: I would like coffee.",
+    "example_translation": "Quisiera café",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-19-alt",
+    "topic": "Food & Drink",
+    "english": "The check, please",
+    "translation": "La cuenta, por favor",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: The check, please.",
+    "example_translation": "La cuenta, por favor",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-food-drink-20-alt",
+    "topic": "Food & Drink",
+    "english": "Can I see the menu?",
+    "translation": "¿Puedo ver el menú?",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "food-drink",
+      "practice"
+    ],
+    "example_en": "Practice: Can I see the menu?.",
+    "example_translation": "¿Puedo ver el menú?",
+    "tip": "Core food & drink vocabulary."
+  },
+  {
+    "id": "es-numbers-1-alt",
+    "topic": "Numbers",
+    "english": "One",
+    "translation": "Uno",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: One.",
+    "example_translation": "Uno",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-2-alt",
+    "topic": "Numbers",
+    "english": "Two",
+    "translation": "Dos",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Two.",
+    "example_translation": "Dos",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-3-alt",
+    "topic": "Numbers",
+    "english": "Three",
+    "translation": "Tres",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Three.",
+    "example_translation": "Tres",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-4-alt",
+    "topic": "Numbers",
+    "english": "Four",
+    "translation": "Cuatro",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Four.",
+    "example_translation": "Cuatro",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-5-alt",
+    "topic": "Numbers",
+    "english": "Five",
+    "translation": "Cinco",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Five.",
+    "example_translation": "Cinco",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-6-alt",
+    "topic": "Numbers",
+    "english": "Six",
+    "translation": "Seis",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Six.",
+    "example_translation": "Seis",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-7-alt",
+    "topic": "Numbers",
+    "english": "Seven",
+    "translation": "Siete",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Seven.",
+    "example_translation": "Siete",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-8-alt",
+    "topic": "Numbers",
+    "english": "Eight",
+    "translation": "Ocho",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Eight.",
+    "example_translation": "Ocho",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-9-alt",
+    "topic": "Numbers",
+    "english": "Nine",
+    "translation": "Nueve",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Nine.",
+    "example_translation": "Nueve",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-10-alt",
+    "topic": "Numbers",
+    "english": "Ten",
+    "translation": "Diez",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Ten.",
+    "example_translation": "Diez",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-11-alt",
+    "topic": "Numbers",
+    "english": "Eleven",
+    "translation": "Once",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Eleven.",
+    "example_translation": "Once",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-12-alt",
+    "topic": "Numbers",
+    "english": "Twelve",
+    "translation": "Doce",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Twelve.",
+    "example_translation": "Doce",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-13-alt",
+    "topic": "Numbers",
+    "english": "Twenty",
+    "translation": "Veinte",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Twenty.",
+    "example_translation": "Veinte",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-14-alt",
+    "topic": "Numbers",
+    "english": "Hundred",
+    "translation": "Cien",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: Hundred.",
+    "example_translation": "Cien",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-numbers-15-alt",
+    "topic": "Numbers",
+    "english": "First",
+    "translation": "Primero",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "numbers",
+      "practice"
+    ],
+    "example_en": "Practice: First.",
+    "example_translation": "Primero",
+    "tip": "Core numbers vocabulary."
+  },
+  {
+    "id": "es-family-1-alt",
+    "topic": "Family",
+    "english": "Mother",
+    "translation": "Madre",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Mother.",
+    "example_translation": "Madre",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-2-alt",
+    "topic": "Family",
+    "english": "Father",
+    "translation": "Padre",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Father.",
+    "example_translation": "Padre",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-3-alt",
+    "topic": "Family",
+    "english": "Brother",
+    "translation": "Hermano",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Brother.",
+    "example_translation": "Hermano",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-4-alt",
+    "topic": "Family",
+    "english": "Sister",
+    "translation": "Hermana",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Sister.",
+    "example_translation": "Hermana",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-5-alt",
+    "topic": "Family",
+    "english": "Son",
+    "translation": "Hijo",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Son.",
+    "example_translation": "Hijo",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-6-alt",
+    "topic": "Family",
+    "english": "Daughter",
+    "translation": "Hija",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Daughter.",
+    "example_translation": "Hija",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-7-alt",
+    "topic": "Family",
+    "english": "Children",
+    "translation": "Niños",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Children.",
+    "example_translation": "Niños",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-8-alt",
+    "topic": "Family",
+    "english": "Family",
+    "translation": "Familia",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Family.",
+    "example_translation": "Familia",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-9-alt",
+    "topic": "Family",
+    "english": "Grandmother",
+    "translation": "Abuela",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Grandmother.",
+    "example_translation": "Abuela",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-10-alt",
+    "topic": "Family",
+    "english": "Grandfather",
+    "translation": "Abuelo",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Grandfather.",
+    "example_translation": "Abuelo",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-11-alt",
+    "topic": "Family",
+    "english": "Friend",
+    "translation": "Amigo",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Friend.",
+    "example_translation": "Amigo",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-12-alt",
+    "topic": "Family",
+    "english": "Parents",
+    "translation": "Padres",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Parents.",
+    "example_translation": "Padres",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-13-alt",
+    "topic": "Family",
+    "english": "Baby",
+    "translation": "Bebé",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Baby.",
+    "example_translation": "Bebé",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-14-alt",
+    "topic": "Family",
+    "english": "Husband",
+    "translation": "Esposo",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Husband.",
+    "example_translation": "Esposo",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-family-15-alt",
+    "topic": "Family",
+    "english": "Wife",
+    "translation": "Esposa",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "family",
+      "practice"
+    ],
+    "example_en": "Practice: Wife.",
+    "example_translation": "Esposa",
+    "tip": "Core family vocabulary."
+  },
+  {
+    "id": "es-colors-1-alt",
+    "topic": "Colors",
+    "english": "Red",
+    "translation": "Rojo",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Red.",
+    "example_translation": "Rojo",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-2-alt",
+    "topic": "Colors",
+    "english": "Blue",
+    "translation": "Azul",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Blue.",
+    "example_translation": "Azul",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-3-alt",
+    "topic": "Colors",
+    "english": "Green",
+    "translation": "Verde",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Green.",
+    "example_translation": "Verde",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-4-alt",
+    "topic": "Colors",
+    "english": "Yellow",
+    "translation": "Amarillo",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Yellow.",
+    "example_translation": "Amarillo",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-5-alt",
+    "topic": "Colors",
+    "english": "Black",
+    "translation": "Negro",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Black.",
+    "example_translation": "Negro",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-6-alt",
+    "topic": "Colors",
+    "english": "White",
+    "translation": "Blanco",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: White.",
+    "example_translation": "Blanco",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-7-alt",
+    "topic": "Colors",
+    "english": "Orange",
+    "translation": "Naranja",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Orange.",
+    "example_translation": "Naranja",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-8-alt",
+    "topic": "Colors",
+    "english": "Pink",
+    "translation": "Rosa",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Pink.",
+    "example_translation": "Rosa",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-9-alt",
+    "topic": "Colors",
+    "english": "Purple",
+    "translation": "Morado",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Purple.",
+    "example_translation": "Morado",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-colors-10-alt",
+    "topic": "Colors",
+    "english": "Brown",
+    "translation": "Marrón",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "colors",
+      "practice"
+    ],
+    "example_en": "Practice: Brown.",
+    "example_translation": "Marrón",
+    "tip": "Core colors vocabulary."
+  },
+  {
+    "id": "es-work-1-alt",
+    "topic": "Work",
+    "english": "Work",
+    "translation": "Trabajo",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Work.",
+    "example_translation": "Trabajo",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-2-alt",
+    "topic": "Work",
+    "english": "Office",
+    "translation": "Oficina",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Office.",
+    "example_translation": "Oficina",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-3-alt",
+    "topic": "Work",
+    "english": "Meeting",
+    "translation": "Reunión",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Meeting.",
+    "example_translation": "Reunión",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-4-alt",
+    "topic": "Work",
+    "english": "Email",
+    "translation": "Correo electrónico",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Email.",
+    "example_translation": "Correo electrónico",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-5-alt",
+    "topic": "Work",
+    "english": "Project",
+    "translation": "Proyecto",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Project.",
+    "example_translation": "Proyecto",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-6-alt",
+    "topic": "Work",
+    "english": "Deadline",
+    "translation": "Fecha límite",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "intermediate",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Deadline.",
+    "example_translation": "Fecha límite",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-7-alt",
+    "topic": "Work",
+    "english": "Break",
+    "translation": "Descanso",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Break.",
+    "example_translation": "Descanso",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-8-alt",
+    "topic": "Work",
+    "english": "Boss",
+    "translation": "Jefe",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Boss.",
+    "example_translation": "Jefe",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-9-alt",
+    "topic": "Work",
+    "english": "Team",
+    "translation": "Equipo",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Team.",
+    "example_translation": "Equipo",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-10-alt",
+    "topic": "Work",
+    "english": "Computer",
+    "translation": "Computadora",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Computer.",
+    "example_translation": "Computadora",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-11-alt",
+    "topic": "Work",
+    "english": "Call",
+    "translation": "Llamada",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Call.",
+    "example_translation": "Llamada",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-12-alt",
+    "topic": "Work",
+    "english": "Schedule",
+    "translation": "Horario",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "intermediate",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Schedule.",
+    "example_translation": "Horario",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-13-alt",
+    "topic": "Work",
+    "english": "Task",
+    "translation": "Tarea",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Task.",
+    "example_translation": "Tarea",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-14-alt",
+    "topic": "Work",
+    "english": "Today I have a meeting",
+    "translation": "Hoy tengo una reunión",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "beginner",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: Today I have a meeting.",
+    "example_translation": "Hoy tengo una reunión",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-work-15-alt",
+    "topic": "Work",
+    "english": "I sent the email",
+    "translation": "Envié el correo",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "intermediate",
+    "tags": [
+      "work",
+      "practice"
+    ],
+    "example_en": "Practice: I sent the email.",
+    "example_translation": "Envié el correo",
+    "tip": "Core work vocabulary."
+  },
+  {
+    "id": "es-time-1-alt",
+    "topic": "Time",
+    "english": "Today",
+    "translation": "Hoy",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "time",
+      "practice"
+    ],
+    "example_en": "Practice: Today.",
+    "example_translation": "Hoy",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-2-alt",
+    "topic": "Time",
+    "english": "Tomorrow",
+    "translation": "Mañana",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "time",
+      "practice"
+    ],
+    "example_en": "Practice: Tomorrow.",
+    "example_translation": "Mañana",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-3-alt",
+    "topic": "Time",
+    "english": "Yesterday",
+    "translation": "Ayer",
+    "pronunciation": "",
+    "part_of_speech": "expression",
+    "difficulty": "intermediate",
+    "tags": [
+      "time",
+      "practice"
+    ],
+    "example_en": "Practice: Yesterday.",
+    "example_translation": "Ayer",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-4-alt",
+    "topic": "Time",
+    "english": "Now",
+    "translation": "Ahora",
+    "pronunciation": "",
+    "part_of_speech": "adjective",
+    "difficulty": "intermediate",
+    "tags": [
+      "time",
+      "practice"
+    ],
+    "example_en": "Practice: Now.",
+    "example_translation": "Ahora",
+    "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-time-5-alt",
+    "topic": "Time",
+    "english": "Later",
+    "translation": "Luego",
+    "pronunciation": "",
+    "part_of_speech": "verb",
+    "difficulty": "beginner",
+    "tags": [
+      "time",
+      "practice"
+    ],
+    "example_en": "Practice: Later.",
+    "example_translation": "Luego",
+    "tip": "Core time vocabulary."
+  }
+]
