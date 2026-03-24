@@ -643,9 +643,6 @@
 
   .content-panel {
     min-height: 520px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     border-radius: 28px;
     border: 1px solid rgba(31, 27, 24, 0.1);
     background:
@@ -655,9 +652,9 @@
   }
 
   .flashcard {
-    min-height: 360px;
-    width: min(100%, 760px);
-    margin: 0 auto;
+    min-height: 400px;
+    width: min(100%, 820px);
+    margin: 18px auto 0;
     border-radius: 30px;
     padding: 28px;
     background:
@@ -821,6 +818,12 @@
     padding: 12px 14px;
     background: rgba(247, 239, 228, 0.92);
     border: 1px solid rgba(31, 27, 24, 0.08);
+  }
+
+  .stage-stack {
+    width: 100%;
+    max-width: 880px;
+    margin: 0 auto;
   }
 
   .word-chip strong {
@@ -1990,7 +1993,7 @@
   function renderFlash() {
     const content = document.getElementById("content");
     content.innerHTML = `
-      <div class="fade-up">
+      <div class="fade-up stage-stack">
         ${topicPills(flashTopic, "setFlashTopic")}
         <button class="flashcard" id="flashcard" type="button" onclick="flipFlashCard()" aria-label="Flashcard. Tap or press enter to flip.">${spinner()}</button>
         <div class="cta-row">
@@ -2070,7 +2073,7 @@
     const accuracy = quizScore.total > 0 ? Math.round((quizScore.correct / quizScore.total) * 100) : null;
     const content = document.getElementById("content");
     content.innerHTML = `
-      <div class="fade-up">
+      <div class="fade-up stage-stack">
         <div class="stage-head" style="margin-bottom: 18px;">
           ${topicPills(quizTopic, "setQuizTopic")}
           <div class="score-pill">${accuracy === null ? "No answers yet" : `<strong>${quizScore.correct}/${quizScore.total}</strong> correct (${accuracy}%)`}</div>
@@ -2187,7 +2190,7 @@
       return;
     }
     content.innerHTML = `
-      <div class="fade-up">
+      <div class="fade-up stage-stack">
         <div class="translation-card">
           <div class="card-overline">Match</div>
           <p class="helper">${matchRound.prompt}</p>
@@ -2202,7 +2205,10 @@
           <div class="word-row" style="margin-top:18px;">
             ${matchRound.options.map(option => `<div class="word-chip"><strong>${escapeHtml(option)}</strong></div>`).join('')}
           </div>
-          <div class="cta-row"><button class="btn-pill" type="button" onclick="renderMatch()">New Match Round</button></div>
+          <div class="cta-row">
+            <button class="btn-pill ghost speak-btn" type="button" onclick="speakMatchOptions()">Speak options</button>
+            <button class="btn-pill" type="button" onclick="renderMatch()">New Match Round</button>
+          </div>
         </div>
       </div>
     `;
@@ -2220,7 +2226,7 @@
       return;
     }
     content.innerHTML = `
-      <div class="fade-up">
+      <div class="fade-up stage-stack">
         <div class="translation-card">
           <div class="card-overline">Multi-Answer</div>
           <p class="helper">Choose all items related to <strong>${escapeHtml(multiRound.topic)}</strong>.</p>
@@ -2229,6 +2235,7 @@
           </div>
           <div class="cta-row">
             <button class="btn-pill" type="button" onclick="submitMultiAnswer()">Check Answers</button>
+            <button class="btn-pill ghost speak-btn" type="button" onclick="speakMultiPrompt()">Speak prompt</button>
             <button class="btn-pill ghost" type="button" onclick="renderMulti()">New Round</button>
           </div>
         </div>
@@ -2268,7 +2275,7 @@
       return;
     }
     content.innerHTML = `
-      <div class="fade-up">
+      <div class="fade-up stage-stack">
         <div class="translation-card">
           <div class="card-overline">Sentence Builder</div>
           <p class="helper">Build the target-language phrase for: <strong>${escapeHtml(reorderRound.english)}</strong></p>
@@ -2278,6 +2285,7 @@
           <div id="reorder-output" class="translation-text" style="margin-top:18px;"></div>
           <div class="cta-row">
             <button class="btn-pill" type="button" onclick="checkReorder()">Check</button>
+            <button class="btn-pill ghost speak-btn" type="button" onclick="speakReorderTarget()">Speak answer</button>
             <button class="btn-pill ghost" type="button" onclick="renderReorder()">New Sentence</button>
           </div>
         </div>
@@ -2300,7 +2308,7 @@
   function renderPhrase() {
     const content = document.getElementById("content");
     content.innerHTML = `
-      <div class="fade-up">
+      <div class="fade-up stage-stack">
         <div class="phrase-row">
           <input class="field" id="phrase-input" placeholder="Type an English phrase..." value="${escapeHtml(phraseValue)}" aria-label="English phrase">
           <button class="btn-pill" type="button" onclick="translatePhrase()">Translate</button>
@@ -2392,7 +2400,7 @@
     const teluguClass = lang === "te" ? " telugu" : "";
     const content = document.getElementById("content");
     content.innerHTML = `
-      <div class="fade-up">
+      <div class="fade-up stage-stack">
         ${scenarioPills(chatScenario)}
         <div class="chat-shell" style="margin-top: 18px;">
           <div class="chatbox" id="chatbox" aria-live="polite">
@@ -2409,6 +2417,7 @@
             <button class="btn-pill" type="button" onclick="sendChat()">Send</button>
           </div>
           <div class="quick-actions">
+            <button class="btn-pill ghost speak-btn" type="button" onclick="speakLatestChat()">Speak last reply</button>
             <button class="btn-pill ghost" type="button" onclick="setScenario(chatScenario)">Restart scenario</button>
           </div>
         </div>
@@ -2468,6 +2477,30 @@
   }
 
   document.getElementById("reset-progress-btn").addEventListener("click", resetProgress);
+
+
+  function speakMatchOptions() {
+    if (!matchRound) return;
+    speakText(matchRound.options.join('. '));
+  }
+
+  function speakMultiPrompt() {
+    if (!multiRound) return;
+    speakText(`Choose all items related to ${multiRound.topic}`);
+  }
+
+  function speakReorderTarget() {
+    if (!reorderRound?.answer) return;
+    speakText(reorderRound.answer);
+  }
+
+  function speakLatestChat() {
+    const latest = [...chatHistory].reverse().find(message => message.role === 'assistant');
+    if (!latest) return;
+    const spoken = latest.content.split('
+')[0];
+    speakText(spoken);
+  }
 
   window.addEventListener("DOMContentLoaded", async () => {
     statusText(getDatasetStatus(), "ok");
