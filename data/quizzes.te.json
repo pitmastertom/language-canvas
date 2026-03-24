@@ -1,0 +1,90 @@
+{
+  "Greetings": {
+    "question": "Which Telugu phrase means 'Hello'?",
+    "correct": "నమస్కారం",
+    "options": [
+      "ధన్యవాదాలు",
+      "నమస్కారం",
+      "వీడ్కోలు",
+      "క్షమించండి"
+    ],
+    "explanation": "నమస్కారం is a respectful greeting meaning Hello."
+  },
+  "Travel": {
+    "question": "How do you ask 'Where is the station?' in Telugu?",
+    "correct": "స్టేషన్ ఎక్కడ ఉంది?",
+    "options": [
+      "స్టేషన్ ఎక్కడ ఉంది?",
+      "స్టేషన్ ఎంత ఉంది?",
+      "స్టేషన్ నాకు కావాలి",
+      "స్టేషన్ బాగుంది"
+    ],
+    "explanation": "ఎక్కడ asks where something is."
+  },
+  "Food & Drink": {
+    "question": "What does 'నీరు' mean?",
+    "correct": "Water",
+    "options": [
+      "Milk",
+      "Tea",
+      "Water",
+      "Rice"
+    ],
+    "explanation": "నీరు means water."
+  },
+  "Numbers": {
+    "question": "Which word means 'two'?",
+    "correct": "రెండు",
+    "options": [
+      "ఒకటి",
+      "రెండు",
+      "మూడు",
+      "నాలుగు"
+    ],
+    "explanation": "రెండు means two."
+  },
+  "Family": {
+    "question": "What does 'అమ్మ' mean?",
+    "correct": "Mother",
+    "options": [
+      "Brother",
+      "Mother",
+      "Father",
+      "Friend"
+    ],
+    "explanation": "అమ్మ means mother."
+  },
+  "Colors": {
+    "question": "Which word means 'white'?",
+    "correct": "తెలుపు",
+    "options": [
+      "నీలం",
+      "ఎరుపు",
+      "తెలుపు",
+      "ఆకుపచ్చ"
+    ],
+    "explanation": "తెలుపు means white."
+  },
+  "Work": {
+    "question": "What does 'పని' mean?",
+    "correct": "Work",
+    "options": [
+      "Home",
+      "Work",
+      "Time",
+      "Road"
+    ],
+    "explanation": "పని means work."
+  },
+  "Time": {
+    "question": "Which phrase asks for the time?",
+    "correct": "ఇప్పుడు సమయం ఎంత?",
+    "options": [
+      "మీరు ఎలా ఉన్నారు?",
+      "ఇప్పుడు సమయం ఎంత?",
+      "ఇది ఏమిటి?",
+      "ఎక్కడికి వెళ్తున్నారు?"
+    ],
+    "explanation": "ఇప్పుడు సమయం ఎంత? means What time is it now?"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "Greetings": [
+    {
+      "english": "Good morning",
+      "translation": "Buenos días",
+      "pronunciation": "BWEH-nos DEE-as",
+      "example_en": "Good morning, how are you?",
+      "example_translation": "Buenos días, ¿cómo estás?",
+      "tip": "Use it until early afternoon in most Spanish-speaking contexts."
+    },
+    {
+      "english": "Nice to meet you",
+      "translation": "Mucho gusto",
+      "pronunciation": "MOO-cho GOOS-to",
+      "example_en": "Hi, I am Ana. Nice to meet you.",
+      "example_translation": "Hola, soy Ana. Mucho gusto.",
+      "tip": "A compact, natural way to greet someone politely."
+    }
+  ],
+  "Travel": [
+    {
+      "english": "Where is the station?",
+      "translation": "¿Dónde está la estación?",
+      "pronunciation": "DON-de es-TA la es-ta-SYON",
+      "example_en": "Excuse me, where is the station?",
+      "example_translation": "Perdón, ¿dónde está la estación?",
+      "tip": "Dónde asks for location; está is used for where something is."
+    },
+    {
+      "english": "I need a ticket",
+      "translation": "Necesito un boleto",
+      "pronunciation": "neh-seh-SEE-to oon bo-LEH-to",
+      "example_en": "I need a ticket to Madrid.",
+      "example_translation": "Necesito un boleto a Madrid.",
+      "tip": "Boleto is common in many regions; billete may also be used."
+    },
+    {
+      "english": "Where can I buy a bus pass?",
+      "translation": "¿Dónde puedo comprar un pase de autobús?",
+      "pronunciation": "DON-de PWE-do kom-PRAR oon PA-se de ow-to-BOOS",
+      "example_en": "Where can I buy a bus pass for today?",
+      "example_translation": "¿Dónde puedo comprar un pase de autobús para hoy?",
+      "tip": "Puedo + infinitive is useful when asking what you are able to do."
+    }
+  ],
+  "Food & Drink": [
+    {
+      "english": "I would like coffee",
+      "translation": "Quisiera café",
+      "pronunciation": "kee-SYE-ra ka-FEH",
+      "example_en": "I would like coffee with milk.",
+      "example_translation": "Quisiera café con leche.",
+      "tip": "Quisiera sounds soft and polite when ordering."
+    },
+    {
+      "english": "The check, please",
+      "translation": "La cuenta, por favor",
+      "pronunciation": "la KWEN-ta por fa-VOR",
+      "example_en": "The check, please. Everything was delicious.",
+      "example_translation": "La cuenta, por favor. Todo estuvo delicioso.",
+      "tip": "La cuenta is what you ask for in a restaurant when you want the bill."
+    }
+  ],
+  "Numbers": [
+    {
+      "english": "Three",
+      "translation": "Tres",
+      "pronunciation": "tres",
+      "example_en": "I need three apples.",
+      "example_translation": "Necesito tres manzanas.",
+      "tip": "Spanish number words do not change for gender here."
+    }
+  ],
+  "Family": [
+    {
+      "english": "My sister",
+      "translation": "Mi hermana",
+      "pronunciation": "mee er-MA-na",
+      "example_en": "My sister lives nearby.",
+      "example_translation": "Mi hermana vive cerca.",
+      "tip": "Mi works for both masculine and feminine singular nouns."
+    }
+  ],
+  "Colors": [
+    {
+      "english": "Blue",
+      "translation": "Azul",
+      "pronunciation": "a-SOOL",
+      "example_en": "The sky is blue.",
+      "example_translation": "El cielo es azul.",
+      "tip": "Many color words can stay unchanged across gender."
+    }
+  ],
+  "Work": [
+    {
+      "english": "I have a meeting",
+      "translation": "Tengo una reunión",
+      "pronunciation": "TEN-go OO-na reh-oo-NYON",
+      "example_en": "I have a meeting at noon.",
+      "example_translation": "Tengo una reunión al mediodía.",
+      "tip": "Tengo means I have."
+    }
+  ],
+  "Time": [
+    {
+      "english": "What time is it?",
+      "translation": "¿Qué hora es?",
+      "pronunciation": "keh OR-a es",
+      "example_en": "What time is it now?",
+      "example_translation": "¿Qué hora es ahora?",
+      "tip": "Hora is singular in this fixed expression."
+    }
+  ]
+}

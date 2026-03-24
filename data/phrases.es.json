@@ -1,0 +1,26 @@
+{
+  "Can you help me find the train station?": {
+    "translation": "¿Puedes ayudarme a encontrar la estación de tren?",
+    "pronunciation": "PWEH-des a-yoo-DAR-me a en-kon-TRAR la es-ta-SYON de tren",
+    "word_by_word": [
+      {
+        "english": "Can you",
+        "translation": "¿Puedes"
+      },
+      {
+        "english": "help me",
+        "translation": "ayudarme"
+      },
+      {
+        "english": "find",
+        "translation": "encontrar"
+      },
+      {
+        "english": "the train station",
+        "translation": "la estación de tren"
+      }
+    ],
+    "grammar_note": "Puedes + infinitive is a common way to ask if someone can do something.",
+    "alternative": "¿Me ayudas a encontrar la estación de tren?"
+  }
+}

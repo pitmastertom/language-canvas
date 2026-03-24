@@ -1,0 +1,26 @@
+{
+  "Can you help me find the train station?": {
+    "translation": "రైల్వే స్టేషన్ కనుగొనడంలో మీరు నాకు సహాయం చేయగలరా?",
+    "pronunciation": "railvē sṭēṣan kanugoṇaḍaṁlō mīru nāku sahāyaṁ cēyagalarā",
+    "word_by_word": [
+      {
+        "english": "Can you",
+        "translation": "మీరు ... చేయగలరా"
+      },
+      {
+        "english": "help me",
+        "translation": "నాకు సహాయం"
+      },
+      {
+        "english": "find",
+        "translation": "కనుగొనడంలో"
+      },
+      {
+        "english": "the train station",
+        "translation": "రైల్వే స్టేషన్"
+      }
+    ],
+    "grammar_note": "Telugu often packs polite ability and request structure into the verb phrase.",
+    "alternative": "రైల్వే స్టేషన్ ఎక్కడ ఉందో చెప్పగలరా?"
+  }
+}

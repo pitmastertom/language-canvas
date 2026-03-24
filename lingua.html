@@ -1280,6 +1280,11 @@
   const SCENARIOS = ["at a cafe", "at the airport", "shopping", "meeting someone", "asking for directions", "at a restaurant"];
   const STORAGE_PROGRESS_KEY = "lingua_canvas_progress";
 
+  const DATA = {
+    es: { flash: {}, quiz: {}, phrase: {}, convoOpeners: {} },
+    te: { flash: {}, quiz: {}, phrase: {}, convoOpeners: {} }
+  };
+
   const FALLBACK = {
     es: {
       flash: {
@@ -1727,7 +1732,28 @@
 
 
   function getDatasetStatus() {
-    return "Running in local dataset mode. Ready for static hosting.";
+    return "Running in local dataset mode. Supabase-ready content structure enabled.";
+  }
+
+  async function loadDataFile(path, fallbackValue) {
+    try {
+      const response = await fetch(path);
+      if (!response.ok) throw new Error('Failed to load ' + path);
+      return await response.json();
+    } catch {
+      return fallbackValue;
+    }
+  }
+
+  async function loadDatasets() {
+    DATA.es.flash = await loadDataFile('./data/flashcards.es.json', FALLBACK.es.flash);
+    DATA.te.flash = await loadDataFile('./data/flashcards.te.json', FALLBACK.te.flash);
+    DATA.es.quiz = await loadDataFile('./data/quizzes.es.json', FALLBACK.es.quiz);
+    DATA.te.quiz = await loadDataFile('./data/quizzes.te.json', FALLBACK.te.quiz);
+    DATA.es.phrase = await loadDataFile('./data/phrases.es.json', FALLBACK.es.phrase);
+    DATA.te.phrase = await loadDataFile('./data/phrases.te.json', FALLBACK.te.phrase);
+    DATA.es.convoOpeners = await loadDataFile('./data/conversation-openers.es.json', FALLBACK.es.convoOpeners);
+    DATA.te.convoOpeners = await loadDataFile('./data/conversation-openers.te.json', FALLBACK.te.convoOpeners);
   }
 
   function parseJSON(raw) {
@@ -1749,7 +1775,7 @@
   }
 
   function fallbackFlashCard() {
-    return sampleFrom(FALLBACK[lang]?.flash?.[flashTopic]) || {
+    return sampleFrom(DATA[lang]?.flash?.[flashTopic]) || sampleFrom(FALLBACK[lang]?.flash?.[flashTopic]) || {
       english: "Practice again",
       translation: lang === "te" ? "మళ్లీ ప్రయత్నించండి" : "Inténtalo de nuevo",
       pronunciation: "",
@@ -1760,7 +1786,7 @@
   }
 
   function fallbackQuizData() {
-    return FALLBACK[lang]?.quiz?.[quizTopic] || {
+    return DATA[lang]?.quiz?.[quizTopic] || FALLBACK[lang]?.quiz?.[quizTopic] || {
       question: lang === "te" ? "ఇది ఒక ప్రాక్టీస్ ప్రశ్న." : "This is a practice question.",
       correct: lang === "te" ? "సరైన జవాబు" : "Correct answer",
       options: lang === "te" ? ["సరైన జవాబు", "ఎంపిక 2", "ఎంపిక 3", "ఎంపిక 4"] : ["Correct answer", "Option 2", "Option 3", "Option 4"],
@@ -1769,7 +1795,7 @@
   }
 
   function fallbackPhraseData(input) {
-    const exact = FALLBACK[lang]?.phrase?.[input];
+    const exact = DATA[lang]?.phrase?.[input] || FALLBACK[lang]?.phrase?.[input];
     if (exact) return exact;
     return {
       translation: lang === "te" ? "దయచేసి ఈ వాక్యాన్ని అనువదించడానికి API కీ జోడించండి." : "Add an API key to generate a custom translation for this phrase.",
@@ -2084,7 +2110,7 @@
   }
 
   function conversationStarter() {
-    return FALLBACK[lang]?.convoOpeners?.[chatScenario] || `Let us practice ${currentLang().label}. We are ${chatScenario}. I will reply in ${currentLang().label} first and then give the English meaning.`;
+    return DATA[lang]?.convoOpeners?.[chatScenario] || FALLBACK[lang]?.convoOpeners?.[chatScenario] || `Let us practice ${currentLang().label}. We are ${chatScenario}. I will reply in ${currentLang().label} first and then give the English meaning.`;
   }
 
   function renderConversation() {
@@ -2172,8 +2198,9 @@
 
   document.getElementById("reset-progress-btn").addEventListener("click", resetProgress);
 
-  window.addEventListener("DOMContentLoaded", () => {
+  window.addEventListener("DOMContentLoaded", async () => {
     statusText(getDatasetStatus(), "ok");
+    await loadDatasets();
     setTheme();
     renderControls();
     updateSessionSummary();

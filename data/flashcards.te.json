@@ -1,0 +1,98 @@
+{
+  "Greetings": [
+    {
+      "english": "Hello",
+      "translation": "నమస్కారం",
+      "pronunciation": "namas-kāram",
+      "example_en": "Hello, how are you?",
+      "example_translation": "నమస్కారం, మీరు ఎలా ఉన్నారు?",
+      "tip": "A respectful, all-purpose greeting in Telugu."
+    },
+    {
+      "english": "Nice to meet you",
+      "translation": "మిమ్మల్ని కలవడం ఆనందంగా ఉంది",
+      "pronunciation": "mimmalni kalavaḍam ānandaṅgā undi",
+      "example_en": "Nice to meet you today.",
+      "example_translation": "ఈ రోజు మిమ్మల్ని కలవడం ఆనందంగా ఉంది.",
+      "tip": "This is polite and natural in formal introductions."
+    }
+  ],
+  "Travel": [
+    {
+      "english": "Where is the station?",
+      "translation": "స్టేషన్ ఎక్కడ ఉంది?",
+      "pronunciation": "sṭēṣan ekkaḍa undi",
+      "example_en": "Excuse me, where is the station?",
+      "example_translation": "క్షమించండి, స్టేషన్ ఎక్కడ ఉంది?",
+      "tip": "ఎక్కడ means where; ఉంది means is/exists."
+    },
+    {
+      "english": "I need a ticket",
+      "translation": "నాకు ఒక టికెట్ కావాలి",
+      "pronunciation": "nāku oka ṭikeṭ kāvāli",
+      "example_en": "I need a ticket for today.",
+      "example_translation": "నాకు ఈ రోజు కోసం ఒక టికెట్ కావాలి.",
+      "tip": "నాకు ... కావాలి is a very useful travel pattern."
+    }
+  ],
+  "Food & Drink": [
+    {
+      "english": "I want tea",
+      "translation": "నాకు టీ కావాలి",
+      "pronunciation": "nāku ṭī kāvāli",
+      "example_en": "I want hot tea.",
+      "example_translation": "నాకు వేడి టీ కావాలి.",
+      "tip": "నాకు ... కావాలి is a common pattern for wants or needs."
+    }
+  ],
+  "Numbers": [
+    {
+      "english": "Two",
+      "translation": "రెండు",
+      "pronunciation": "reṇḍu",
+      "example_en": "I need two tickets.",
+      "example_translation": "నాకు రెండు టికెట్లు కావాలి.",
+      "tip": "Telugu numbers are useful to learn in real-life situations quickly."
+    }
+  ],
+  "Family": [
+    {
+      "english": "My brother",
+      "translation": "నా అన్నయ్య",
+      "pronunciation": "nā annayya",
+      "example_en": "My brother is at home.",
+      "example_translation": "నా అన్నయ్య ఇంట్లో ఉన్నాడు.",
+      "tip": "Family terms can vary based on age and relation."
+    }
+  ],
+  "Colors": [
+    {
+      "english": "White",
+      "translation": "తెలుపు",
+      "pronunciation": "telupu",
+      "example_en": "The shirt is white.",
+      "example_translation": "చొక్కా తెలుపు రంగులో ఉంది.",
+      "tip": "You may hear రంగు when explicitly naming color."
+    }
+  ],
+  "Work": [
+    {
+      "english": "I have work",
+      "translation": "నాకు పని ఉంది",
+      "pronunciation": "nāku pani undi",
+      "example_en": "I have work today.",
+      "example_translation": "నాకు ఈ రోజు పని ఉంది.",
+      "tip": "నాకు ... ఉంది is a useful possession/availability pattern."
+    }
+  ],
+  "Time": [
+    {
+      "english": "What time is it?",
+      "translation": "ఇప్పుడు సమయం ఎంత?",
+      "pronunciation": "ippuḍu samayaṁ enta",
+      "example_en": "What time is it now?",
+      "example_translation": "ఇప్పుడు సమయం ఎంత?",
+      "tip": "సమయం means time."
+    }
+  ]
+}

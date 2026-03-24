@@ -1,0 +1,90 @@
+{
+  "Greetings": {
+    "question": "How do you say 'Good night' in Spanish?",
+    "correct": "Buenas noches",
+    "options": [
+      "Buenas noches",
+      "Buenos días",
+      "Buenas tardes",
+      "Hasta luego"
+    ],
+    "explanation": "Buenas noches is used in the evening and at night."
+  },
+  "Travel": {
+    "question": "Which phrase means 'Where is the airport?'",
+    "correct": "¿Dónde está el aeropuerto?",
+    "options": [
+      "¿Cuánto cuesta el aeropuerto?",
+      "¿Dónde está el aeropuerto?",
+      "Quiero el aeropuerto",
+      "El aeropuerto está bien"
+    ],
+    "explanation": "Dónde está asks where something is located."
+  },
+  "Food & Drink": {
+    "question": "What is the best translation for 'water'?",
+    "correct": "Agua",
+    "options": [
+      "Leche",
+      "Agua",
+      "Pan",
+      "Jugo"
+    ],
+    "explanation": "Agua means water."
+  },
+  "Numbers": {
+    "question": "What is 'five' in Spanish?",
+    "correct": "Cinco",
+    "options": [
+      "Cuatro",
+      "Cinco",
+      "Seis",
+      "Siete"
+    ],
+    "explanation": "Cinco means five."
+  },
+  "Family": {
+    "question": "How do you say 'mother'?",
+    "correct": "Madre",
+    "options": [
+      "Madre",
+      "Hermano",
+      "Padre",
+      "Tía"
+    ],
+    "explanation": "Madre means mother."
+  },
+  "Colors": {
+    "question": "Which word means 'red'?",
+    "correct": "Rojo",
+    "options": [
+      "Verde",
+      "Rojo",
+      "Blanco",
+      "Negro"
+    ],
+    "explanation": "Rojo means red."
+  },
+  "Work": {
+    "question": "How do you say 'office'?",
+    "correct": "Oficina",
+    "options": [
+      "Escuela",
+      "Oficina",
+      "Casa",
+      "Mesa"
+    ],
+    "explanation": "Oficina means office."
+  },
+  "Time": {
+    "question": "Which question asks for the time?",
+    "correct": "¿Qué hora es?",
+    "options": [
+      "¿Cómo estás?",
+      "¿Dónde vives?",
+      "¿Qué hora es?",
+      "¿Qué quieres?"
+    ],
+    "explanation": "¿Qué hora es? means What time is it?"
+  }
+}
