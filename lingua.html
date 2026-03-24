@@ -546,7 +546,6 @@
     margin-bottom: 8px;
   }
 
-  .key-row,
   .chat-row,
   .phrase-row {
     display: flex;
@@ -570,15 +569,6 @@
     box-shadow: 0 0 0 4px rgba(244, 106, 45, 0.08);
   }
 
-  .icon-btn {
-    min-width: 52px;
-    padding: 0 16px;
-    border-radius: 16px;
-    background: rgba(255, 255, 255, 0.84);
-    border: 1px solid rgba(31, 27, 24, 0.1);
-    color: var(--ink);
-    font-weight: 700;
-  }
 
   .chip-grid,
   .mode-tabs,
@@ -1049,7 +1039,6 @@
       align-items: start;
     }
 
-    .key-row,
     .phrase-row,
     .chat-row {
       flex-direction: column;
@@ -1181,7 +1170,7 @@
             <div class="label">Practice Studio</div>
             <div class="studio-title">Responsive learning, ready to use.</div>
             <p class="studio-copy">
-              Add your Anthropic API key to power the learning modes. The key stays in your browser using local storage.
+              Lingua Canvas now runs as a dataset-first learning studio, so it works cleanly as a static site on mobile and desktop without browser-side model keys.
             </p>
           </div>
           <div class="status-badge">
@@ -1194,17 +1183,13 @@
           <aside class="panel config-panel">
             <div>
               <div class="panel-title">Setup</div>
-              <p class="panel-copy">Choose a language, save your key, and switch between study modes.</p>
+              <p class="panel-copy">Choose a language, review your progress, and switch between study modes.</p>
             </div>
 
-            <div>
-              <label class="label" for="apikey">Anthropic API Key</label>
-              <div class="key-row">
-                <input class="field" id="apikey" type="password" placeholder="sk-ant-..." autocomplete="off">
-                <button class="icon-btn" id="toggle-key-btn" type="button" aria-pressed="false" aria-label="Show API key">Show</button>
-                <button class="btn-pill" id="save-key-btn" type="button">Save</button>
-              </div>
-              <p class="status-text" id="key-status">Your key is stored only in this browser.</p>
+            <div class="micro-card">
+              <div class="panel-title">Static-first setup</div>
+              <p class="panel-copy">No browser API key needed. The site uses built-in lessons and can later be extended with a secure server-side AI endpoint if you want.</p>
+              <p class="status-text" id="key-status">Running in local dataset mode.</p>
             </div>
 
             <div>
@@ -1332,6 +1317,14 @@
             example_en: "I need a ticket to Madrid.",
             example_translation: "Necesito un boleto a Madrid.",
             tip: "Boleto is common in many regions; billete may also be used."
+          },
+          {
+            english: "Where can I buy a bus pass?",
+            translation: "¿Dónde puedo comprar un pase de autobús?",
+            pronunciation: "DON-de PWE-do kom-PRAR oon PA-se de ow-to-BOOS",
+            example_en: "Where can I buy a bus pass for today?",
+            example_translation: "¿Dónde puedo comprar un pase de autobús para hoy?",
+            tip: "Puedo + infinitive is useful when asking what you are able to do."
           }
         ],
         "Food & Drink": [
@@ -1342,6 +1335,14 @@
             example_en: "I would like coffee with milk.",
             example_translation: "Quisiera café con leche.",
             tip: "Quisiera sounds soft and polite when ordering."
+          },
+          {
+            english: "The check, please",
+            translation: "La cuenta, por favor",
+            pronunciation: "la KWEN-ta por fa-VOR",
+            example_en: "The check, please. Everything was delicious.",
+            example_translation: "La cuenta, por favor. Todo estuvo delicioso.",
+            tip: "La cuenta is what you ask for in a restaurant when you want the bill."
           }
         ],
         Numbers: [
@@ -1496,6 +1497,14 @@
             example_en: "Excuse me, where is the station?",
             example_translation: "క్షమించండి, స్టేషన్ ఎక్కడ ఉంది?",
             tip: "ఎక్కడ means where; ఉంది means is/exists."
+          },
+          {
+            english: "I need a ticket",
+            translation: "నాకు ఒక టికెట్ కావాలి",
+            pronunciation: "nāku oka ṭikeṭ kāvāli",
+            example_en: "I need a ticket for today.",
+            example_translation: "నాకు ఈ రోజు కోసం ఒక టికెట్ కావాలి.",
+            tip: "నాకు ... కావాలి is a very useful travel pattern."
           }
         ],
         "Food & Drink": [
@@ -1636,7 +1645,6 @@
 
   let lang = "es";
   let mode = "flash";
-  let apiKey = localStorage.getItem("lingua_canvas_key") || "";
   let flashTopic = "Greetings";
   let flashCard = null;
   let flashFlipped = false;
@@ -1717,64 +1725,9 @@
     el.className = "status-text" + (tone === "ok" ? " ok" : tone === "bad" ? " bad" : "");
   }
 
-  function saveKey() {
-    const input = document.getElementById("apikey");
-    if (!input) return;
-    const value = input.value.trim();
-    if (!value) {
-      statusText("Enter your Anthropic API key first.", "bad");
-      return;
-    }
-    apiKey = value;
-    localStorage.setItem("lingua_canvas_key", value);
-    statusText("Key saved in this browser.", "ok");
-  }
 
-  function toggleKeyVisibility() {
-    const input = document.getElementById("apikey");
-    const btn = document.getElementById("toggle-key-btn");
-    if (!input || !btn) return;
-    const visible = input.type === "text";
-    input.type = visible ? "password" : "text";
-    btn.textContent = visible ? "Show" : "Hide";
-    btn.setAttribute("aria-pressed", String(!visible));
-    btn.setAttribute("aria-label", visible ? "Show API key" : "Hide API key");
-  }
-
-  async function askClaude(messages, system, maxTokens = 900) {
-    if (!apiKey) {
-      statusText("No API key saved — using built-in practice content. Add a key anytime for live AI-generated exercises.", "neutral");
-      return null;
-    }
-
-    try {
-      const response = await fetch("https://api.anthropic.com/v1/messages", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "x-api-key": apiKey,
-          "anthropic-version": "2023-06-01",
-          "anthropic-dangerous-direct-browser-access": "true"
-        },
-        body: JSON.stringify({
-          model: "claude-sonnet-4-20250514",
-          max_tokens: maxTokens,
-          system,
-          messages
-        })
-      });
-
-      const data = await response.json();
-      if (!response.ok || data.error) {
-        statusText((data.error?.message || "The API request failed.") + " Falling back to built-in content.", "bad");
-        return null;
-      }
-      statusText("Live AI mode is active.", "ok");
-      return data.content?.[0]?.text || null;
-    } catch (error) {
-      statusText("Could not reach the API. Falling back to built-in content.", "bad");
-      return null;
-    }
+  function getDatasetStatus() {
+    return "Running in local dataset mode. Ready for static hosting.";
   }
 
   function parseJSON(raw) {
@@ -1811,7 +1764,7 @@
       question: lang === "te" ? "ఇది ఒక ప్రాక్టీస్ ప్రశ్న." : "This is a practice question.",
       correct: lang === "te" ? "సరైన జవాబు" : "Correct answer",
       options: lang === "te" ? ["సరైన జవాబు", "ఎంపిక 2", "ఎంపిక 3", "ఎంపిక 4"] : ["Correct answer", "Option 2", "Option 3", "Option 4"],
-      explanation: lang === "te" ? "అంతర్గత బ్యాకప్ క్విజ్ ఉపయోగించబడింది." : "A built-in backup quiz was used."
+      explanation: lang === "te" ? "అంతర్గత ప్రాక్టీస్ క్విజ్ ఉపయోగించబడింది." : "A built-in practice quiz was used."
     };
   }
 
@@ -1943,12 +1896,7 @@
     if (!el) return;
     el.innerHTML = spinner();
 
-    const raw = await askClaude(
-      [{ role: "user", content: `Create one ${currentLang().label} flashcard for the topic "${flashTopic}".` }],
-      `You are a ${currentLang().label} language teacher. Return only valid JSON with these keys: english, translation, pronunciation, example_en, example_translation, tip`
-    );
-
-    flashCard = parseJSON(raw) || fallbackFlashCard();
+    flashCard = fallbackFlashCard();
     flashCount += 1;
     persistProgress();
     renderStageMeta();
@@ -2020,15 +1968,7 @@
     if (!el) return;
     el.innerHTML = spinner();
 
-    const raw = await askClaude(
-      [{ role: "user", content: `Create one multiple choice ${currentLang().label} quiz question for topic "${quizTopic}".` }],
-      `You are a ${currentLang().label} quiz generator. Return only valid JSON with these keys: question, correct, options, explanation. "options" must contain exactly 4 strings.`
-    );
-
-    quizData = parseJSON(raw);
-    if (!quizData || !Array.isArray(quizData.options) || quizData.options.length !== 4) {
-      quizData = fallbackQuizData();
-    }
+    quizData = fallbackQuizData();
 
     renderQuizCard();
   }
@@ -2138,12 +2078,7 @@
     const resultEl = document.getElementById("phrase-result");
     resultEl.innerHTML = spinner();
 
-    const raw = await askClaude(
-      [{ role: "user", content: `Translate this phrase into ${currentLang().label}: "${phraseValue}"` }],
-      `You are a ${currentLang().label} teacher. Return only valid JSON with these keys: translation, pronunciation, word_by_word, grammar_note, alternative. Each word_by_word item should contain english and translation.`
-    );
-
-    phraseResult = parseJSON(raw) || fallbackPhraseData(phraseValue);
+    phraseResult = fallbackPhraseData(phraseValue);
     resultEl.innerHTML = renderPhraseResultMarkup();
     renderStageMeta();
   }
@@ -2216,21 +2151,10 @@
     chatLoading = true;
     renderConversation();
 
-    const messages = chatHistory.slice(-12).map((item) => ({
-      role: item.role === "assistant" ? "assistant" : "user",
-      content: item.content
-    }));
-
-    const reply = await askClaude(
-      messages,
-      `You are a warm ${currentLang().label} conversation partner. The scenario is ${chatScenario}. Reply in ${currentLang().label} first, then on a new line provide the English translation in parentheses. Keep it to 1 or 2 short sentences and gently correct mistakes.`,
-      350
-    );
-
     chatLoading = false;
     chatHistory.push({
       role: "assistant",
-      content: reply || fallbackConversationReply(value)
+      content: fallbackConversationReply(value)
     });
     convoTurns += 1;
     persistProgress();
@@ -2246,17 +2170,10 @@
     else renderConversation();
   }
 
-  document.getElementById("save-key-btn").addEventListener("click", saveKey);
-  document.getElementById("toggle-key-btn").addEventListener("click", toggleKeyVisibility);
   document.getElementById("reset-progress-btn").addEventListener("click", resetProgress);
 
   window.addEventListener("DOMContentLoaded", () => {
-    if (apiKey) {
-      document.getElementById("apikey").value = apiKey;
-      statusText("Saved key loaded from this browser.", "ok");
-    } else {
-      statusText("No key saved yet. You can still use the built-in lessons offline.", "neutral");
-    }
+    statusText(getDatasetStatus(), "ok");
     setTheme();
     renderControls();
     updateSessionSummary();

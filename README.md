@@ -14,8 +14,8 @@ Lingua Canvas is a single-file responsive language-learning website designed to 
   - Conversation mode
 - Spanish and Telugu support
 - Script-aware Telugu typography
-- Anthropic API key support via browser `localStorage` (`lingua_canvas_key`)
-- Graceful offline / no-key fallback content
+- Built-in dataset-driven practice content
+- Graceful static/offline behavior
 
 ## Project structure
 
@@ -27,12 +27,9 @@ This project intentionally stays simple:
 
 Open `lingua.html` directly in a browser.
 
-For live AI-generated exercises:
-1. Open the page
-2. Enter your Anthropic API key
-3. Save it in the local browser
+The app works using built-in structured learning content and does not require a browser-side AI key.
 
-If no key is present, the app still works using built-in fallback content.
+If you want AI later, add a server-side endpoint rather than putting credentials in frontend code.
 
 ## Design direction
 
@@ -45,5 +42,5 @@ The visual style is intentionally:
 ## Notes
 
 - The site is usable as a static file
-- The interactive experience degrades gracefully when API access is unavailable
+- The current version is ideal for static hosting platforms like Vercel
 - Progress is stored locally in the browser
