@@ -512,8 +512,9 @@
   .studio-grid {
     margin-top: 12px;
     display: grid;
-    grid-template-columns: 280px minmax(0, 1fr);
+    grid-template-columns: 260px minmax(0, 1fr);
     gap: 20px;
+    align-items: start;
   }
 
   .panel {
@@ -643,12 +644,14 @@
 
   .content-panel {
     min-height: 520px;
+    width: 100%;
     border-radius: 28px;
     border: 1px solid rgba(31, 27, 24, 0.1);
     background:
       linear-gradient(180deg, rgba(255, 255, 255, 0.66), rgba(255, 249, 241, 0.9));
     padding: 22px;
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.68);
+    overflow: visible;
   }
 
   .flashcard {
@@ -824,6 +827,7 @@
     width: 100%;
     max-width: 880px;
     margin: 0 auto;
+    display: block;
   }
 
   .word-chip strong {
@@ -2374,6 +2378,8 @@
   }
 
   function renderMode() {
+    const content = document.getElementById("content");
+    if (content) content.innerHTML = "";
     renderStageMeta();
     if (mode === "flash") renderFlash();
     else if (mode === "quiz") renderQuiz();
@@ -2413,6 +2419,7 @@
   window.addEventListener("DOMContentLoaded", async () => {
     statusText(getDatasetStatus(), "ok");
     await loadDatasets();
+    mode = "flash";
     setTheme();
     renderControls();
     updateTopCounters();
