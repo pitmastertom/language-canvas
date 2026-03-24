@@ -4,5 +4,7 @@
   "shopping": "Estamos de compras. Pregunta por la talla, el precio o el color.\n(We are shopping. Ask about the size, price, or color.)",
   "meeting someone": "Acabas de conocer a alguien. Preséntate y haz una pregunta sencilla.\n(You just met someone. Introduce yourself and ask a simple question.)",
   "asking for directions": "Necesitas ayuda para llegar a un lugar.\n(You need help getting somewhere.)",
-  "at a restaurant": "Estamos en un restaurante. Haz tu pedido o pide la cuenta.\n(We are at a restaurant. Place your order or ask for the bill.)"
+  "at a restaurant": "Estamos en un restaurante. Haz tu pedido o pide la cuenta.\n(We are at a restaurant. Place your order or ask for the bill.)",
+  "at a hotel": "Estamos en un hotel. Pregunta por tu habitación, el check-in o una toalla extra.\n(We are at a hotel. Ask about your room, check-in, or an extra towel.)",
+  "at work": "Estamos en el trabajo. Habla sobre una reunión, un correo o una fecha límite.\n(We are at work. Talk about a meeting, an email, or a deadline.)"
 }

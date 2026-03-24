@@ -15,6 +15,22 @@
       "example_en": "Hi, I am Ana. Nice to meet you.",
       "example_translation": "Hola, soy Ana. Mucho gusto.",
       "tip": "A compact, natural way to greet someone politely."
+    },
+    {
+      "english": "Good evening",
+      "translation": "Buenas tardes",
+      "pronunciation": "BWEH-nas TAR-des",
+      "example_en": "Good evening, it is nice to see you.",
+      "example_translation": "Buenas tardes, qué gusto verte.",
+      "tip": "Buenas tardes works through the late afternoon and early evening."
+    },
+    {
+      "english": "See you later",
+      "translation": "Hasta luego",
+      "pronunciation": "AS-ta loo-EH-go",
+      "example_en": "See you later, take care.",
+      "example_translation": "Hasta luego, cuídate.",
+      "tip": "A common casual farewell."
     }
   ],
   "Travel": [
@@ -59,6 +75,30 @@
       "example_en": "The check, please. Everything was delicious.",
       "example_translation": "La cuenta, por favor. Todo estuvo delicioso.",
       "tip": "La cuenta is what you ask for in a restaurant when you want the bill."
+    },
+    {
+      "english": "Water",
+      "translation": "Agua",
+      "pronunciation": "A-gwa",
+      "example_en": "Could I have water, please?",
+      "example_translation": "¿Me da agua, por favor?",
+      "tip": "Agua is feminine in meaning but often takes masculine articles in singular form."
+    },
+    {
+      "english": "Menu",
+      "translation": "Menú",
+      "pronunciation": "meh-NOO",
+      "example_en": "Can I see the menu?",
+      "example_translation": "¿Puedo ver el menú?",
+      "tip": "Useful at cafés and restaurants."
+    },
+    {
+      "english": "Vegetarian",
+      "translation": "Vegetariano",
+      "pronunciation": "beh-heh-ta-RYA-no",
+      "example_en": "I am vegetarian.",
+      "example_translation": "Soy vegetariano.",
+      "tip": "Vegetariana is used by many female speakers."
     }
   ],
   "Numbers": [
@@ -69,6 +109,30 @@
       "example_en": "I need three apples.",
       "example_translation": "Necesito tres manzanas.",
       "tip": "Spanish number words do not change for gender here."
+    },
+    {
+      "english": "One",
+      "translation": "Uno",
+      "pronunciation": "OO-no",
+      "example_en": "One ticket, please.",
+      "example_translation": "Un boleto, por favor.",
+      "tip": "Uno changes form before some nouns."
+    },
+    {
+      "english": "Two",
+      "translation": "Dos",
+      "pronunciation": "dos",
+      "example_en": "I need two coffees.",
+      "example_translation": "Necesito dos cafés.",
+      "tip": "Dos stays the same."
+    },
+    {
+      "english": "Ten",
+      "translation": "Diez",
+      "pronunciation": "dyez",
+      "example_en": "The table is number ten.",
+      "example_translation": "La mesa es número diez.",
+      "tip": "Good anchor number for beginners."
     }
   ],
   "Family": [
@@ -99,6 +163,22 @@
       "example_en": "I have a meeting at noon.",
       "example_translation": "Tengo una reunión al mediodía.",
       "tip": "Tengo means I have."
+    },
+    {
+      "english": "Email",
+      "translation": "Correo electrónico",
+      "pronunciation": "ko-RRE-o eh-lek-TRO-nee-ko",
+      "example_en": "I sent the email this morning.",
+      "example_translation": "Envié el correo electrónico esta mañana.",
+      "tip": "Correo is often enough in everyday speech."
+    },
+    {
+      "english": "Deadline",
+      "translation": "Fecha límite",
+      "pronunciation": "FE-cha LEE-mee-teh",
+      "example_en": "The deadline is tomorrow.",
+      "example_translation": "La fecha límite es mañana.",
+      "tip": "A common workplace phrase."
     }
   ],
   "Time": [
@@ -109,6 +189,22 @@
       "example_en": "What time is it now?",
       "example_translation": "¿Qué hora es ahora?",
       "tip": "Hora is singular in this fixed expression."
+    },
+    {
+      "english": "Today",
+      "translation": "Hoy",
+      "pronunciation": "oy",
+      "example_en": "I am busy today.",
+      "example_translation": "Estoy ocupado hoy.",
+      "tip": "Short and very common."
+    },
+    {
+      "english": "Tomorrow",
+      "translation": "Mañana",
+      "pronunciation": "ma-NYA-na",
+      "example_en": "See you tomorrow.",
+      "example_translation": "Hasta mañana.",
+      "tip": "Also means morning depending on context."
     }
   ]
 }

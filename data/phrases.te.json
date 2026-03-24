@@ -22,5 +22,53 @@
     ],
     "grammar_note": "Telugu often packs polite ability and request structure into the verb phrase.",
     "alternative": "రైల్వే స్టేషన్ ఎక్కడ ఉందో చెప్పగలరా?"
+  },
+  "Please give me water": {
+    "translation": "దయచేసి నాకు నీరు ఇవ్వండి",
+    "pronunciation": "dayacēsi nāku nīru ivvaṇḍi",
+    "word_by_word": [
+      {
+        "english": "Please",
+        "translation": "దయచేసి"
+      },
+      {
+        "english": "to me",
+        "translation": "నాకు"
+      },
+      {
+        "english": "water",
+        "translation": "నీరు"
+      },
+      {
+        "english": "give",
+        "translation": "ఇవ్వండి"
+      }
+    ],
+    "grammar_note": "ఇవ్వండి is a polite imperative form.",
+    "alternative": "నాకు కొంచెం నీరు ఇవ్వండి."
+  },
+  "I have a meeting today": {
+    "translation": "నాకు ఈ రోజు సమావేశం ఉంది",
+    "pronunciation": "nāku ī rōju samāvēśam undi",
+    "word_by_word": [
+      {
+        "english": "to me / I have",
+        "translation": "నాకు"
+      },
+      {
+        "english": "today",
+        "translation": "ఈ రోజు"
+      },
+      {
+        "english": "meeting",
+        "translation": "సమావేశం"
+      },
+      {
+        "english": "is",
+        "translation": "ఉంది"
+      }
+    ],
+    "grammar_note": "నాకు ... ఉంది is a practical possession or state pattern.",
+    "alternative": "ఈ రోజు నాకు ఒక సమావేశం ఉంది."
   }
 }

@@ -22,5 +22,37 @@
     ],
     "grammar_note": "Puedes + infinitive is a common way to ask if someone can do something.",
     "alternative": "¿Me ayudas a encontrar la estación de tren?"
+  },
+  "Where is platform three?": {
+    "translation": "¿Dónde está el andén tres?",
+    "pronunciation": "DON-de es-TA el an-DEN tres",
+    "word_by_word": [
+      {
+        "english": "Where is",
+        "translation": "¿Dónde está"
+      },
+      {
+        "english": "platform three",
+        "translation": "el andén tres"
+      }
+    ],
+    "grammar_note": "Andén is commonly used for a train platform.",
+    "alternative": "¿Dónde queda el andén tres?"
+  },
+  "I am vegetarian": {
+    "translation": "Soy vegetariano",
+    "pronunciation": "soy beh-heh-ta-RYA-no",
+    "word_by_word": [
+      {
+        "english": "I am",
+        "translation": "Soy"
+      },
+      {
+        "english": "vegetarian",
+        "translation": "vegetariano"
+      }
+    ],
+    "grammar_note": "Use vegetariana if you want a feminine form.",
+    "alternative": "No como carne."
   }
 }

@@ -86,5 +86,27 @@
       "ఎక్కడికి వెళ్తున్నారు?"
     ],
     "explanation": "ఇప్పుడు సమయం ఎంత? means What time is it now?"
+  },
+  "Food & Drink 2": {
+    "question": "What does 'నీరు' mean?",
+    "correct": "Water",
+    "options": [
+      "Tea",
+      "Spicy",
+      "Water",
+      "Menu"
+    ],
+    "explanation": "నీరు means water."
+  },
+  "Work 2": {
+    "question": "What does 'సమావేశం' mean?",
+    "correct": "Meeting",
+    "options": [
+      "Meeting",
+      "Deadline",
+      "Email",
+      "Office"
+    ],
+    "explanation": "సమావేశం means meeting."
   }
 }

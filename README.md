@@ -26,6 +26,8 @@ This project intentionally stays simple while becoming easier to scale:
 - `lingua.html` — alternate single-file entry
 - `data/*.json` — structured content files used by the site
 - `supabase-schema.sql` — starter relational schema for Supabase
+- `supabase-import.md` — import/setup notes
+- `.env.example` — future environment variable placeholders
 
 ## Usage
 
@@ -41,7 +43,8 @@ Recommended next step:
 1. Create a Supabase project
 2. Run `supabase-schema.sql`
 3. Import the content from `data/*.json`
-4. Replace JSON file loading with Supabase queries when ready
+4. Add `SUPABASE_URL` and `SUPABASE_ANON_KEY`
+5. Replace JSON file loading with Supabase queries when ready
 
 ## Notes
 

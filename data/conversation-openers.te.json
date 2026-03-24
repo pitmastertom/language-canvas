@@ -4,5 +4,7 @@
   "shopping": "మనము షాపింగ్ చేస్తున్నాము. సైజు, ధర లేదా రంగు గురించి అడగండి.\n(We are shopping. Ask about the size, price, or color.)",
   "meeting someone": "మీరు కొత్తగా ఎవరో ఒకరిని కలిశారు. మీ గురించి చెప్పండి.\n(You just met someone. Introduce yourself.)",
   "asking for directions": "మీకు దారి కావాలి. ఒక స్థలానికి ఎలా వెళ్లాలో అడగండి.\n(You need directions. Ask how to get somewhere.)",
-  "at a restaurant": "మనము ఒక రెస్టారెంట్‌లో ఉన్నాము. మీ ఆర్డర్ ఇవ్వండి లేదా బిల్ అడగండి.\n(We are at a restaurant. Place your order or ask for the bill.)"
+  "at a restaurant": "మనము ఒక రెస్టారెంట్‌లో ఉన్నాము. మీ ఆర్డర్ ఇవ్వండి లేదా బిల్ అడగండి.\n(We are at a restaurant. Place your order or ask for the bill.)",
+  "at a hotel": "మనము ఒక హోటల్‌లో ఉన్నాము. మీ గది, చెక్-ఇన్ లేదా అదనపు టవల్ గురించి అడగండి.\n(We are at a hotel. Ask about your room, check-in, or an extra towel.)",
+  "at work": "మనము పనిలో ఉన్నాము. సమావేశం, ఈమెయిల్ లేదా గడువు గురించి మాట్లాడండి.\n(We are at work. Talk about a meeting, an email, or a deadline.)"
 }

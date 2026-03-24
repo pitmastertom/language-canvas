@@ -15,6 +15,22 @@
       "example_en": "Nice to meet you today.",
       "example_translation": "ఈ రోజు మిమ్మల్ని కలవడం ఆనందంగా ఉంది.",
       "tip": "This is polite and natural in formal introductions."
+    },
+    {
+      "english": "Good morning",
+      "translation": "శుభోదయం",
+      "pronunciation": "śubhōdayam",
+      "example_en": "Good morning, how did you sleep?",
+      "example_translation": "శుభోదయం, మీరు ఎలా నిద్రపోయారు?",
+      "tip": "A direct morning greeting."
+    },
+    {
+      "english": "See you later",
+      "translation": "తర్వాత కలుద్దాం",
+      "pronunciation": "tarvāta kaluddām",
+      "example_en": "See you later, take care.",
+      "example_translation": "తర్వాత కలుద్దాం, జాగ్రత్త.",
+      "tip": "A friendly casual closing."
     }
   ],
   "Travel": [
@@ -43,6 +59,30 @@
       "example_en": "I want hot tea.",
       "example_translation": "నాకు వేడి టీ కావాలి.",
       "tip": "నాకు ... కావాలి is a common pattern for wants or needs."
+    },
+    {
+      "english": "Water",
+      "translation": "నీరు",
+      "pronunciation": "nīru",
+      "example_en": "Please give me water.",
+      "example_translation": "దయచేసి నాకు నీరు ఇవ్వండి.",
+      "tip": "One of the most useful early words."
+    },
+    {
+      "english": "Menu",
+      "translation": "మెనూ",
+      "pronunciation": "menū",
+      "example_en": "Can I see the menu?",
+      "example_translation": "నేను మెనూ చూడవచ్చా?",
+      "tip": "A common loanword."
+    },
+    {
+      "english": "Spicy",
+      "translation": "కారం",
+      "pronunciation": "kāram",
+      "example_en": "Is this spicy?",
+      "example_translation": "ఇది కారంగా ఉందా?",
+      "tip": "Useful in restaurants."
     }
   ],
   "Numbers": [
@@ -53,6 +93,30 @@
       "example_en": "I need two tickets.",
       "example_translation": "నాకు రెండు టికెట్లు కావాలి.",
       "tip": "Telugu numbers are useful to learn in real-life situations quickly."
+    },
+    {
+      "english": "One",
+      "translation": "ఒకటి",
+      "pronunciation": "okaṭi",
+      "example_en": "I need one ticket.",
+      "example_translation": "నాకు ఒక టికెట్ కావాలి.",
+      "tip": "Basic number word."
+    },
+    {
+      "english": "Three",
+      "translation": "మూడు",
+      "pronunciation": "mūḍu",
+      "example_en": "Three people are coming.",
+      "example_translation": "మూడు మంది వస్తున్నారు.",
+      "tip": "Useful in everyday counts."
+    },
+    {
+      "english": "Ten",
+      "translation": "పది",
+      "pronunciation": "padi",
+      "example_en": "It is ten o'clock.",
+      "example_translation": "ఇప్పుడు పది గంటలు.",
+      "tip": "A useful anchor number."
     }
   ],
   "Family": [
@@ -83,6 +147,22 @@
       "example_en": "I have work today.",
       "example_translation": "నాకు ఈ రోజు పని ఉంది.",
       "tip": "నాకు ... ఉంది is a useful possession/availability pattern."
+    },
+    {
+      "english": "Meeting",
+      "translation": "సమావేశం",
+      "pronunciation": "samāvēśam",
+      "example_en": "I have a meeting now.",
+      "example_translation": "నాకు ఇప్పుడు సమావేశం ఉంది.",
+      "tip": "Common in office settings."
+    },
+    {
+      "english": "Email",
+      "translation": "ఈమెయిల్",
+      "pronunciation": "īmēyil",
+      "example_en": "I sent the email.",
+      "example_translation": "నేను ఈమెయిల్ పంపాను.",
+      "tip": "Another common loanword."
     }
   ],
   "Time": [
@@ -93,6 +173,22 @@
       "example_en": "What time is it now?",
       "example_translation": "ఇప్పుడు సమయం ఎంత?",
       "tip": "సమయం means time."
+    },
+    {
+      "english": "Today",
+      "translation": "ఈ రోజు",
+      "pronunciation": "ī rōju",
+      "example_en": "I am free today.",
+      "example_translation": "నేను ఈ రోజు ఖాళీగా ఉన్నాను.",
+      "tip": "Very common time phrase."
+    },
+    {
+      "english": "Tomorrow",
+      "translation": "రేపు",
+      "pronunciation": "rēpu",
+      "example_en": "We will meet tomorrow.",
+      "example_translation": "మనం రేపు కలుసుకుంటాం.",
+      "tip": "Essential for planning."
     }
   ]
 }

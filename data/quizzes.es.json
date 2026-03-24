@@ -86,5 +86,27 @@
       "¿Qué quieres?"
     ],
     "explanation": "¿Qué hora es? means What time is it?"
+  },
+  "Food & Drink 2": {
+    "question": "How do you ask for the bill in Spanish?",
+    "correct": "La cuenta, por favor",
+    "options": [
+      "El menú, por favor",
+      "La cuenta, por favor",
+      "Agua sin hielo",
+      "Un café con leche"
+    ],
+    "explanation": "La cuenta means the bill or check."
+  },
+  "Travel 2": {
+    "question": "Which phrase means 'Where can I buy a bus pass?'",
+    "correct": "¿Dónde puedo comprar un pase de autobús?",
+    "options": [
+      "¿Dónde está el autobús?",
+      "¿Puedo esperar aquí?",
+      "¿Dónde puedo comprar un pase de autobús?",
+      "¿Cuánto cuesta el taxi?"
+    ],
+    "explanation": "Puedo comprar means 'can I buy'."
   }
 }
