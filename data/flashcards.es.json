@@ -57,6 +57,46 @@
       "example_en": "Where can I buy a bus pass for today?",
       "example_translation": "¿Dónde puedo comprar un pase de autobús para hoy?",
       "tip": "Puedo + infinitive is useful when asking what you are able to do."
+    },
+    {
+      "english": "Taxi",
+      "translation": "Taxi",
+      "pronunciation": "TAK-see",
+      "example_en": "I need a taxi to the airport.",
+      "example_translation": "Necesito un taxi al aeropuerto.",
+      "tip": "Same word, easy win."
+    },
+    {
+      "english": "Luggage",
+      "translation": "Equipaje",
+      "pronunciation": "eh-kee-PA-he",
+      "example_en": "Where is my luggage?",
+      "example_translation": "¿Dónde está mi equipaje?",
+      "tip": "Very useful for airports."
+    },
+    {
+      "english": "Left",
+      "translation": "Izquierda",
+      "pronunciation": "ees-KYEHR-da",
+      "example_en": "Turn left here.",
+      "example_translation": "Gire a la izquierda aquí.",
+      "tip": "Core direction word."
+    },
+    {
+      "english": "Right",
+      "translation": "Derecha",
+      "pronunciation": "deh-RE-cha",
+      "example_en": "The bank is on the right.",
+      "example_translation": "El banco está a la derecha.",
+      "tip": "Pairs naturally with izquierda."
+    },
+    {
+      "english": "Straight ahead",
+      "translation": "Todo recto",
+      "pronunciation": "TO-do REK-to",
+      "example_en": "Go straight ahead for two blocks.",
+      "example_translation": "Siga todo recto por dos cuadras.",
+      "tip": "Great for directions."
     }
   ],
   "Food & Drink": [
@@ -143,6 +183,30 @@
       "example_en": "My sister lives nearby.",
       "example_translation": "Mi hermana vive cerca.",
       "tip": "Mi works for both masculine and feminine singular nouns."
+    },
+    {
+      "english": "Mother",
+      "translation": "Madre",
+      "pronunciation": "MA-dreh",
+      "example_en": "My mother is at home.",
+      "example_translation": "Mi madre está en casa.",
+      "tip": "Basic family word."
+    },
+    {
+      "english": "Father",
+      "translation": "Padre",
+      "pronunciation": "PA-dreh",
+      "example_en": "My father is working.",
+      "example_translation": "Mi padre está trabajando.",
+      "tip": "Common basic noun."
+    },
+    {
+      "english": "Children",
+      "translation": "Niños",
+      "pronunciation": "NEE-nyos",
+      "example_en": "The children are playing.",
+      "example_translation": "Los niños están jugando.",
+      "tip": "Niñas is used for girls specifically."
     }
   ],
   "Colors": [
@@ -153,6 +217,30 @@
       "example_en": "The sky is blue.",
       "example_translation": "El cielo es azul.",
       "tip": "Many color words can stay unchanged across gender."
+    },
+    {
+      "english": "Green",
+      "translation": "Verde",
+      "pronunciation": "VER-deh",
+      "example_en": "The door is green.",
+      "example_translation": "La puerta es verde.",
+      "tip": "A very common descriptive color."
+    },
+    {
+      "english": "Black",
+      "translation": "Negro",
+      "pronunciation": "NE-gro",
+      "example_en": "I want the black bag.",
+      "example_translation": "Quiero la bolsa negra.",
+      "tip": "Negra is used with feminine nouns."
+    },
+    {
+      "english": "Yellow",
+      "translation": "Amarillo",
+      "pronunciation": "a-ma-REE-yo",
+      "example_en": "The bus is yellow.",
+      "example_translation": "El autobús es amarillo.",
+      "tip": "Useful high-frequency color word."
     }
   ],
   "Work": [

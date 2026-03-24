@@ -49,6 +49,46 @@
       "example_en": "I need a ticket for today.",
       "example_translation": "నాకు ఈ రోజు కోసం ఒక టికెట్ కావాలి.",
       "tip": "నాకు ... కావాలి is a very useful travel pattern."
+    },
+    {
+      "english": "Taxi",
+      "translation": "టాక్సీ",
+      "pronunciation": "ṭāksī",
+      "example_en": "I need a taxi.",
+      "example_translation": "నాకు ఒక టాక్సీ కావాలి.",
+      "tip": "Common travel loanword."
+    },
+    {
+      "english": "Luggage",
+      "translation": "సామాను",
+      "pronunciation": "sāmānu",
+      "example_en": "Where is my luggage?",
+      "example_translation": "నా సామాను ఎక్కడ ఉంది?",
+      "tip": "Useful at stations and airports."
+    },
+    {
+      "english": "Left",
+      "translation": "ఎడమ",
+      "pronunciation": "eḍama",
+      "example_en": "Turn left here.",
+      "example_translation": "ఇక్కడ ఎడమవైపు తిరగండి.",
+      "tip": "Basic direction word."
+    },
+    {
+      "english": "Right",
+      "translation": "కుడి",
+      "pronunciation": "kuḍi",
+      "example_en": "The shop is on the right.",
+      "example_translation": "దుకాణం కుడివైపు ఉంది.",
+      "tip": "Pairs with ఎడమ."
+    },
+    {
+      "english": "Straight",
+      "translation": "నేరుగా",
+      "pronunciation": "nērugā",
+      "example_en": "Go straight.",
+      "example_translation": "నేరుగా వెళ్లండి.",
+      "tip": "Very useful for giving or following directions."
     }
   ],
   "Food & Drink": [
@@ -127,6 +167,30 @@
       "example_en": "My brother is at home.",
       "example_translation": "నా అన్నయ్య ఇంట్లో ఉన్నాడు.",
       "tip": "Family terms can vary based on age and relation."
+    },
+    {
+      "english": "Mother",
+      "translation": "అమ్మ",
+      "pronunciation": "amma",
+      "example_en": "My mother is here.",
+      "example_translation": "నా అమ్మ ఇక్కడ ఉంది.",
+      "tip": "One of the first family words learners pick up."
+    },
+    {
+      "english": "Father",
+      "translation": "నాన్న",
+      "pronunciation": "nānna",
+      "example_en": "My father is busy.",
+      "example_translation": "నా నాన్న బిజీగా ఉన్నారు.",
+      "tip": "Common everyday family word."
+    },
+    {
+      "english": "Children",
+      "translation": "పిల్లలు",
+      "pronunciation": "pillalu",
+      "example_en": "The children are outside.",
+      "example_translation": "పిల్లలు బయట ఉన్నారు.",
+      "tip": "Useful everyday noun."
     }
   ],
   "Colors": [
@@ -137,6 +201,30 @@
       "example_en": "The shirt is white.",
       "example_translation": "చొక్కా తెలుపు రంగులో ఉంది.",
       "tip": "You may hear రంగు when explicitly naming color."
+    },
+    {
+      "english": "Green",
+      "translation": "ఆకుపచ్చ",
+      "pronunciation": "ākupacca",
+      "example_en": "The leaf is green.",
+      "example_translation": "ఆకు ఆకుపచ్చగా ఉంది.",
+      "tip": "Very common color term."
+    },
+    {
+      "english": "Black",
+      "translation": "నలుపు",
+      "pronunciation": "nalupu",
+      "example_en": "The car is black.",
+      "example_translation": "కారు నలుపు రంగులో ఉంది.",
+      "tip": "Useful basic adjective."
+    },
+    {
+      "english": "Yellow",
+      "translation": "పసుపు",
+      "pronunciation": "pasupu",
+      "example_en": "The flower is yellow.",
+      "example_translation": "పువ్వు పసుపు రంగులో ఉంది.",
+      "tip": "Also the word used for turmeric in many contexts."
     }
   ],
   "Work": [

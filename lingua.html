@@ -1079,12 +1079,11 @@
       <div class="hero-card fade-up">
         <div class="eyebrow">
           <span class="eyebrow-dot"></span>
-          Built for phones, tablets, and desktop screens
+          Spanish + Telugu, built for mobile and desktop
         </div>
-        <h1>Learn a language in a space that feels <span>alive</span>.</h1>
+        <h1>Learn faster with words, phrases, and practice that feels <span>alive</span>.</h1>
         <p>
-          Lingua Canvas blends flashcards, translation drills, quick quizzes, and guided conversation into one flexible interface.
-          The layout adapts cleanly for mobile and computer so practice feels natural anywhere.
+          One calm place to study vocabulary, test yourself, build phrases, and practice short conversations.
         </p>
         <div class="hero-actions">
           <a class="btn-primary" href="#studio">Open Studio</a>
@@ -1096,12 +1095,12 @@
             <span>practice modes inside one page</span>
           </div>
           <div class="metric">
-            <strong>2</strong>
-            <span>languages with script-aware typography</span>
+            <strong id="spanish-count">0</strong>
+            <span>Spanish learning entries</span>
           </div>
           <div class="metric">
-            <strong>1</strong>
-            <span>single HTML file that opens anywhere</span>
+            <strong id="telugu-count">0</strong>
+            <span>Telugu learning entries</span>
           </div>
         </div>
       </div>
@@ -1182,14 +1181,22 @@
         <div class="studio-grid">
           <aside class="panel config-panel">
             <div>
-              <div class="panel-title">Setup</div>
-              <p class="panel-copy">Choose a language, review your progress, and switch between study modes.</p>
+              <div class="panel-title">Studio</div>
+              <p class="panel-copy">Choose a language, track your progress, and switch between study modes.</p>
             </div>
 
             <div class="micro-card">
-              <div class="panel-title">Static-first setup</div>
-              <p class="panel-copy">No browser API key needed. The site uses built-in lessons and can later be extended with a secure server-side AI endpoint if you want.</p>
+              <div class="panel-title">Content</div>
+              <p class="panel-copy">Simple by design: built-in lessons now, Supabase-ready content structure for later.</p>
               <p class="status-text" id="key-status">Running in local dataset mode.</p>
+            </div>
+
+            <div class="micro-card">
+              <div class="panel-title">Pronunciation</div>
+              <p class="panel-copy">A Whisper-style pronunciation checker can be added through a secure API route. The UI scaffold is ready.</p>
+              <div class="quick-actions">
+                <button class="btn-pill ghost" type="button" id="pronunciation-btn">Pronunciation check (soon)</button>
+              </div>
             </div>
 
             <div>
@@ -1690,10 +1697,27 @@
     updateSessionSummary();
   }
 
+  function datasetCounts() {
+    const spanish = Object.values(DATA.es.flash || {}).reduce((sum, items) => sum + items.length, 0) || Object.values(FALLBACK.es.flash || {}).reduce((sum, items) => sum + items.length, 0);
+    const telugu = Object.values(DATA.te.flash || {}).reduce((sum, items) => sum + items.length, 0) || Object.values(FALLBACK.te.flash || {}).reduce((sum, items) => sum + items.length, 0);
+    return { spanish, telugu };
+  }
+
+  function updateTopCounters() {
+    const counts = datasetCounts();
+    const es = document.getElementById("spanish-count");
+    const te = document.getElementById("telugu-count");
+    if (es) es.textContent = counts.spanish;
+    if (te) te.textContent = counts.telugu;
+  }
+
   function updateSessionSummary() {
     const el = document.getElementById("session-summary");
     if (!el) return;
+    const counts = datasetCounts();
     el.innerHTML = `
+      <div>Spanish entries: ${counts.spanish}</div>
+      <div>Telugu entries: ${counts.telugu}</div>
       <div>Flashcards studied: ${flashCount}</div>
       <div>Quiz score: ${quizScore.correct}/${quizScore.total}</div>
       <div>Conversation turns: ${convoTurns}</div>
@@ -2230,8 +2254,12 @@
     await loadDatasets();
     setTheme();
     renderControls();
+    updateTopCounters();
     updateSessionSummary();
     renderMode();
+    document.getElementById("pronunciation-btn")?.addEventListener("click", () => {
+      statusText("Pronunciation checking can be connected next using a secure Whisper-style speech-to-text API.", "neutral");
+    });
   });
 </script>
 </body>
