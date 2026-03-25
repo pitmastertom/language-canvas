@@ -1602,6 +1602,7 @@
   let flashTopic = "Greetings";
   let flashCard = null;
   let flashFlipped = false;
+  let flashRecentIds = [];
   let quizTopic = "Greetings";
   let quizData = null;
   let quizScore = loadSavedProgress();
@@ -1769,11 +1770,19 @@
   }
 
   function fallbackFlashCard() {
-    return sampleFrom(DATA[lang]?.flash?.[flashTopic]) || sampleFrom(FALLBACK[lang]?.flash?.[flashTopic]) || {
+    const topicPool = (DATA[lang]?.vocabulary || []).filter((item) => item.topic === flashTopic) || [];
+    const seen = new Set(flashRecentIds);
+    const freshPool = topicPool.filter((item) => !seen.has(item.id));
+    const picked = sampleFrom(freshPool.length ? freshPool : topicPool) || sampleFrom(DATA[lang]?.flash?.[flashTopic]) || sampleFrom(FALLBACK[lang]?.flash?.[flashTopic]);
+    if (picked?.id) {
+      flashRecentIds.push(picked.id);
+      if (flashRecentIds.length > 12) flashRecentIds.shift();
+    }
+    return picked || {
       english: "Practice again",
       translation: lang === "te" ? "మళ్లీ ప్రయత్నించండి" : "Inténtalo de nuevo",
       pronunciation: "",
-      example_en: "Try another topic or add an API key for more variety.",
+      example_en: "Try another topic or switch topics for more variety.",
       example_translation: "",
       tip: "Built-in content keeps the site usable offline too."
     };
@@ -1844,6 +1853,7 @@
         lang = btn.dataset.lang;
         flashCard = null;
         flashFlipped = false;
+        flashRecentIds = [];
         quizData = null;
         phraseResult = null;
         chatHistory = [];

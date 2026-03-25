@@ -4468,5 +4468,645 @@
     "example_en": "Practice: Later.",
     "example_translation": "Luego",
     "tip": "Core time vocabulary."
+  },
+  {
+    "id": "es-essentials-2-291",
+    "topic": "Essentials 2",
+    "english": "Bathroom",
+    "translation": "Baño",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Bathroom.",
+    "example_translation": "Baño",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-292",
+    "topic": "Essentials 2",
+    "english": "Kitchen",
+    "translation": "Cocina",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Kitchen.",
+    "example_translation": "Cocina",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-293",
+    "topic": "Essentials 2",
+    "english": "School",
+    "translation": "Escuela",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: School.",
+    "example_translation": "Escuela",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-294",
+    "topic": "Essentials 2",
+    "english": "Hospital",
+    "translation": "Hospital",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Hospital.",
+    "example_translation": "Hospital",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-295",
+    "topic": "Essentials 2",
+    "english": "Pharmacy",
+    "translation": "Farmacia",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Pharmacy.",
+    "example_translation": "Farmacia",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-296",
+    "topic": "Essentials 2",
+    "english": "Doctor",
+    "translation": "Doctor",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Doctor.",
+    "example_translation": "Doctor",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-297",
+    "topic": "Essentials 2",
+    "english": "Nurse",
+    "translation": "Enfermera",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Nurse.",
+    "example_translation": "Enfermera",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-298",
+    "topic": "Essentials 2",
+    "english": "Medicine",
+    "translation": "Medicina",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Medicine.",
+    "example_translation": "Medicina",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-299",
+    "topic": "Essentials 2",
+    "english": "Pain",
+    "translation": "Dolor",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Pain.",
+    "example_translation": "Dolor",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-300",
+    "topic": "Essentials 2",
+    "english": "Emergency",
+    "translation": "Emergencia",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Emergency.",
+    "example_translation": "Emergencia",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-301",
+    "topic": "Essentials 2",
+    "english": "Car",
+    "translation": "Coche",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Car.",
+    "example_translation": "Coche",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-302",
+    "topic": "Essentials 2",
+    "english": "Road",
+    "translation": "Carretera",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Road.",
+    "example_translation": "Carretera",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-303",
+    "topic": "Essentials 2",
+    "english": "City",
+    "translation": "Ciudad",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: City.",
+    "example_translation": "Ciudad",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-304",
+    "topic": "Essentials 2",
+    "english": "Village",
+    "translation": "Pueblo",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Village.",
+    "example_translation": "Pueblo",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-305",
+    "topic": "Essentials 2",
+    "english": "Country",
+    "translation": "País",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Country.",
+    "example_translation": "País",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-306",
+    "topic": "Essentials 2",
+    "english": "Music",
+    "translation": "Música",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Music.",
+    "example_translation": "Música",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-307",
+    "topic": "Essentials 2",
+    "english": "Movie",
+    "translation": "Película",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Movie.",
+    "example_translation": "Película",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-308",
+    "topic": "Essentials 2",
+    "english": "Game",
+    "translation": "Juego",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Game.",
+    "example_translation": "Juego",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-309",
+    "topic": "Essentials 2",
+    "english": "Weather",
+    "translation": "Clima",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Weather.",
+    "example_translation": "Clima",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-310",
+    "topic": "Essentials 2",
+    "english": "Rain",
+    "translation": "Lluvia",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Rain.",
+    "example_translation": "Lluvia",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-311",
+    "topic": "Essentials 2",
+    "english": "Sun",
+    "translation": "Sol",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Sun.",
+    "example_translation": "Sol",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-312",
+    "topic": "Essentials 2",
+    "english": "Wind",
+    "translation": "Viento",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Wind.",
+    "example_translation": "Viento",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-313",
+    "topic": "Essentials 2",
+    "english": "Beach",
+    "translation": "Playa",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Beach.",
+    "example_translation": "Playa",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-314",
+    "topic": "Essentials 2",
+    "english": "Mountain",
+    "translation": "Montaña",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Mountain.",
+    "example_translation": "Montaña",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-315",
+    "topic": "Essentials 2",
+    "english": "River",
+    "translation": "Río",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: River.",
+    "example_translation": "Río",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-316",
+    "topic": "Essentials 2",
+    "english": "Shoes",
+    "translation": "Zapatos",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Shoes.",
+    "example_translation": "Zapatos",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-317",
+    "topic": "Essentials 2",
+    "english": "Shirt",
+    "translation": "Camisa",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Shirt.",
+    "example_translation": "Camisa",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-318",
+    "topic": "Essentials 2",
+    "english": "Pants",
+    "translation": "Pantalones",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Pants.",
+    "example_translation": "Pantalones",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-319",
+    "topic": "Essentials 2",
+    "english": "Money",
+    "translation": "Dinero",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Money.",
+    "example_translation": "Dinero",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-320",
+    "topic": "Essentials 2",
+    "english": "Change",
+    "translation": "Cambio",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Change.",
+    "example_translation": "Cambio",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-321",
+    "topic": "Essentials 2",
+    "english": "Cheap",
+    "translation": "Barato",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Cheap.",
+    "example_translation": "Barato",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-322",
+    "topic": "Essentials 2",
+    "english": "Expensive",
+    "translation": "Caro",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Expensive.",
+    "example_translation": "Caro",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-323",
+    "topic": "Essentials 2",
+    "english": "Busy",
+    "translation": "Ocupado",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Busy.",
+    "example_translation": "Ocupado",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-324",
+    "topic": "Essentials 2",
+    "english": "Free",
+    "translation": "Libre",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Free.",
+    "example_translation": "Libre",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-325",
+    "topic": "Essentials 2",
+    "english": "Near",
+    "translation": "Cerca",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Near.",
+    "example_translation": "Cerca",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-326",
+    "topic": "Essentials 2",
+    "english": "Far",
+    "translation": "Lejos",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Far.",
+    "example_translation": "Lejos",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-327",
+    "topic": "Essentials 2",
+    "english": "Open now",
+    "translation": "Abierto ahora",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Open now.",
+    "example_translation": "Abierto ahora",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-328",
+    "topic": "Essentials 2",
+    "english": "Closed",
+    "translation": "Cerrado",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Closed.",
+    "example_translation": "Cerrado",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-329",
+    "topic": "Essentials 2",
+    "english": "Come here",
+    "translation": "Ven aquí",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Come here.",
+    "example_translation": "Ven aquí",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "es-essentials-2-330",
+    "topic": "Essentials 2",
+    "english": "Wait a moment",
+    "translation": "Espera un momento",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Wait a moment.",
+    "example_translation": "Espera un momento",
+    "tip": "Expanded core vocabulary."
   }
 ]

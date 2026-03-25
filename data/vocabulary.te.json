@@ -4468,5 +4468,645 @@
     "example_en": "Practice: Later.",
     "example_translation": "తర్వాత",
     "tip": "Core time vocabulary."
+  },
+  {
+    "id": "te-essentials-2-291",
+    "topic": "Essentials 2",
+    "english": "Bathroom",
+    "translation": "బాత్‌రూమ్",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Bathroom.",
+    "example_translation": "బాత్‌రూమ్",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-292",
+    "topic": "Essentials 2",
+    "english": "Kitchen",
+    "translation": "వంటగది",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Kitchen.",
+    "example_translation": "వంటగది",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-293",
+    "topic": "Essentials 2",
+    "english": "School",
+    "translation": "పాఠశాల",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: School.",
+    "example_translation": "పాఠశాల",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-294",
+    "topic": "Essentials 2",
+    "english": "Hospital",
+    "translation": "ఆసుపత్రి",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Hospital.",
+    "example_translation": "ఆసుపత్రి",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-295",
+    "topic": "Essentials 2",
+    "english": "Pharmacy",
+    "translation": "ఫార్మసీ",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Pharmacy.",
+    "example_translation": "ఫార్మసీ",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-296",
+    "topic": "Essentials 2",
+    "english": "Doctor",
+    "translation": "డాక్టర్",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Doctor.",
+    "example_translation": "డాక్టర్",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-297",
+    "topic": "Essentials 2",
+    "english": "Nurse",
+    "translation": "నర్స్",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Nurse.",
+    "example_translation": "నర్స్",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-298",
+    "topic": "Essentials 2",
+    "english": "Medicine",
+    "translation": "ఔషధం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Medicine.",
+    "example_translation": "ఔషధం",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-299",
+    "topic": "Essentials 2",
+    "english": "Pain",
+    "translation": "నొప్పి",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Pain.",
+    "example_translation": "నొప్పి",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-300",
+    "topic": "Essentials 2",
+    "english": "Emergency",
+    "translation": "అత్యవసరం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Emergency.",
+    "example_translation": "అత్యవసరం",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-301",
+    "topic": "Essentials 2",
+    "english": "Car",
+    "translation": "కారు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Car.",
+    "example_translation": "కారు",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-302",
+    "topic": "Essentials 2",
+    "english": "Road",
+    "translation": "రోడు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Road.",
+    "example_translation": "రోడు",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-303",
+    "topic": "Essentials 2",
+    "english": "City",
+    "translation": "నగరం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: City.",
+    "example_translation": "నగరం",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-304",
+    "topic": "Essentials 2",
+    "english": "Village",
+    "translation": "గ్రామం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Village.",
+    "example_translation": "గ్రామం",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-305",
+    "topic": "Essentials 2",
+    "english": "Country",
+    "translation": "దేశం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Country.",
+    "example_translation": "దేశం",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-306",
+    "topic": "Essentials 2",
+    "english": "Music",
+    "translation": "సంగీతం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Music.",
+    "example_translation": "సంగీతం",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-307",
+    "topic": "Essentials 2",
+    "english": "Movie",
+    "translation": "సినిమా",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Movie.",
+    "example_translation": "సినిమా",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-308",
+    "topic": "Essentials 2",
+    "english": "Game",
+    "translation": "ఆట",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Game.",
+    "example_translation": "ఆట",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-309",
+    "topic": "Essentials 2",
+    "english": "Weather",
+    "translation": "వాతావరణం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Weather.",
+    "example_translation": "వాతావరణం",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-310",
+    "topic": "Essentials 2",
+    "english": "Rain",
+    "translation": "వర్షం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Rain.",
+    "example_translation": "వర్షం",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-311",
+    "topic": "Essentials 2",
+    "english": "Sun",
+    "translation": "సూర్యుడు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Sun.",
+    "example_translation": "సూర్యుడు",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-312",
+    "topic": "Essentials 2",
+    "english": "Wind",
+    "translation": "గాలి",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Wind.",
+    "example_translation": "గాలి",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-313",
+    "topic": "Essentials 2",
+    "english": "Beach",
+    "translation": "సముద్రతీరం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Beach.",
+    "example_translation": "సముద్రతీరం",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-314",
+    "topic": "Essentials 2",
+    "english": "Mountain",
+    "translation": "పర్వతం",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Mountain.",
+    "example_translation": "పర్వతం",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-315",
+    "topic": "Essentials 2",
+    "english": "River",
+    "translation": "నది",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: River.",
+    "example_translation": "నది",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-316",
+    "topic": "Essentials 2",
+    "english": "Shoes",
+    "translation": "బూట్లు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Shoes.",
+    "example_translation": "బూట్లు",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-317",
+    "topic": "Essentials 2",
+    "english": "Shirt",
+    "translation": "చొక్కా",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Shirt.",
+    "example_translation": "చొక్కా",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-318",
+    "topic": "Essentials 2",
+    "english": "Pants",
+    "translation": "ప్యాంటు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Pants.",
+    "example_translation": "ప్యాంటు",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-319",
+    "topic": "Essentials 2",
+    "english": "Money",
+    "translation": "డబ్బు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Money.",
+    "example_translation": "డబ్బు",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-320",
+    "topic": "Essentials 2",
+    "english": "Change",
+    "translation": "చేంజ్",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Change.",
+    "example_translation": "చేంజ్",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-321",
+    "topic": "Essentials 2",
+    "english": "Cheap",
+    "translation": "చౌక",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Cheap.",
+    "example_translation": "చౌక",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-322",
+    "topic": "Essentials 2",
+    "english": "Expensive",
+    "translation": "ఖరీదైన",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Expensive.",
+    "example_translation": "ఖరీదైన",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-323",
+    "topic": "Essentials 2",
+    "english": "Busy",
+    "translation": "బిజీగా",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Busy.",
+    "example_translation": "బిజీగా",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-324",
+    "topic": "Essentials 2",
+    "english": "Free",
+    "translation": "ఖాళీగా",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Free.",
+    "example_translation": "ఖాళీగా",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-325",
+    "topic": "Essentials 2",
+    "english": "Near",
+    "translation": "దగ్గర",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Near.",
+    "example_translation": "దగ్గర",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-326",
+    "topic": "Essentials 2",
+    "english": "Far",
+    "translation": "దూరంగా",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Far.",
+    "example_translation": "దూరంగా",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-327",
+    "topic": "Essentials 2",
+    "english": "Open now",
+    "translation": "ఇప్పుడు తెరిచి ఉంది",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Open now.",
+    "example_translation": "ఇప్పుడు తెరిచి ఉంది",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-328",
+    "topic": "Essentials 2",
+    "english": "Closed",
+    "translation": "మూసివేశారు",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Closed.",
+    "example_translation": "మూసివేశారు",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-329",
+    "topic": "Essentials 2",
+    "english": "Come here",
+    "translation": "ఇక్కడికి రండి",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Come here.",
+    "example_translation": "ఇక్కడికి రండి",
+    "tip": "Expanded core vocabulary."
+  },
+  {
+    "id": "te-essentials-2-330",
+    "topic": "Essentials 2",
+    "english": "Wait a moment",
+    "translation": "ఒక్క నిమిషం వేచి ఉండండి",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "difficulty": "beginner",
+    "tags": [
+      "essentials-2",
+      "practice"
+    ],
+    "example_en": "Practice: Wait a moment.",
+    "example_translation": "ఒక్క నిమిషం వేచి ఉండండి",
+    "tip": "Expanded core vocabulary."
   }
 ]
